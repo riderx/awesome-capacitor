@@ -1,0 +1,5 @@
+{
+	"dependencies": {
+		"node-html-parser": "^5.1.0"
+	}
+}
