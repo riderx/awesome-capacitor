@@ -82,19 +82,17 @@ Community plugins owned by Capacitor are listed here.
 -  [Contacts](https://github.com/capacitor-community/contacts) Contacts Plugin for Capacitor.
 -  [Date picker](https://github.com/capacitor-community/date-picker) Native DateTime Picker Plugin for Capacitor Apps.
 -  [Device react](https://github.com/capacitor-community/device-react) React Hooks for Capacitor Device plugin.
-### Electron
--  [Electron](https://github.com/capacitor-community/electron) Support for the Electron platform.
--  [Electron core](https://github.com/capacitor-community/electron-core) Core for the Capacitor Community Electron platform.
--  [Electron platform](https://github.com/capacitor-community/electron-platform) support for the Electron platform.
-
+-  Electron
+    -  [Electron](https://github.com/capacitor-community/electron) Support for the Electron platform.
+    -  [Electron core](https://github.com/capacitor-community/electron-core) Core for the Capacitor Community Electron platform.
+    -  [Electron platform](https://github.com/capacitor-community/electron-platform) support for the Electron platform.
 -  [Facebook login](https://github.com/capacitor-community/facebook-login) A native plugin for Facebook Login.
 -  [Filesystem-react](https://github.com/capacitor-community/filesystem-react) React Hooks for Capacitor Filesystem plugin.
-### Firebase
--  [Analytics](https://github.com/capacitor-community/firebase-analytics) A native plugin for firebase analytics.
--  [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) Capacitor plugin for Firebase Crashlytics.
--  [Fcm](https://github.com/capacitor-community/fcm) Enable Firebase Cloud Messaging features for Capacitor apps.
--  [Remote config](https://github.com/capacitor-community/firebase-remote-config) A native plugin for firebase remote config.
-
+-  Firebase
+    -  [Analytics](https://github.com/capacitor-community/firebase-analytics) A native plugin for firebase analytics.
+    -  [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) Capacitor plugin for Firebase Crashlytics.
+    -  [Fcm](https://github.com/capacitor-community/fcm) Enable Firebase Cloud Messaging features for Capacitor apps.
+    -  [Remote config](https://github.com/capacitor-community/firebase-remote-config) A native plugin for firebase remote config.
 -  [Flipper](https://github.com/capacitor-community/flipper) A native plugin for flipper debugger.
 -  [Geolocation react](https://github.com/capacitor-community/geolocation-react) React Hooks for Capacitor GeoLocation plugin.
 -  [Http](https://github.com/capacitor-community/http) A native HTTP plugin for CORS-free requests and file transfers.
@@ -129,27 +127,25 @@ Independents plugins are listed here.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) request user authorization to access app-related data for tracking the user or the device. iOS only.
 - [Background tasks](https://github.com/robingenz/capacitor-background-task) A native plugin for running background tasks.
 - [Flash](https://github.com/riderx/capacitor-flash) Switch the Flashlight / Torch of your device.
-### Firebase
-- [Auth](https://github.com/baumblatt/capacitor-firebase-auth) handle the authentication on Native layer and propagate the token to the web view layer. 
-- [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) Allows usage of native AppCheck tokens.
-- [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) Firebase Dynamic Links.
-
-
-### Google
-- [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) Google auth plugin for Capacitor.
-- [Badge](https://github.com/robingenz/capacitor-badge) Access and update the badge number of the app icon.
-- [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) Use biometrics confirm device owner presence or authenticate users.
-- [Email composer](https://github.com/EinfachHans/capacitor-email-composer) open a native E-Mail Composer within your Capacitor App.
-- [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) Retrieve data from Google Fit.
+- Firebase
+    - [Auth](https://github.com/baumblatt/capacitor-firebase-auth) handle the authentication on Native layer and propagate the token to the web view layer. 
+    - [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) Allows usage of native AppCheck tokens.
+    - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) Firebase Dynamic Links.
+- Google
+    - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) Google auth plugin for Capacitor.
+    - [Badge](https://github.com/robingenz/capacitor-badge) Access and update the badge number of the app icon.
+    - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) Use biometrics confirm device owner presence or authenticate users.
+    - [Email composer](https://github.com/EinfachHans/capacitor-email-composer) open a native E-Mail Composer within your Capacitor App.
+    - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) Retrieve data from Google Fit.
 
 - [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) Retrieve data from HealthKit
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) make video calls through the free, open-sourced Jitsi video platform
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) get the illuminance level on the device.
 - [Mute](https://github.com/riderx/capacitor-mute) Detect silent mode and mute audio.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) Open native settings screens.
-### NativeScript
-- [Native script Capacitor](https://github.com/NativeScript/capacitor) Empower Capacitor with native APIs.
-- [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) Add AR experiences.
+- NativeScript
+    - [Native script Capacitor](https://github.com/NativeScript/capacitor) Empower Capacitor with native APIs.
+    - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) Add AR experiences.
 - [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) generic OAuth 2 client plugin. It let you configure the oauth parameters yourself instead of using SDKs.
 - [Print](https://github.com/leoruhland/capacitor-print) Print the webview.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) Let users rate your app using native rate app dialog for both Android and iOS.
