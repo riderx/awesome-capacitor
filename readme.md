@@ -17,11 +17,16 @@
 	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
 </div>
 
+<div align="center">
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a>
+</div>
 <br>
 
 <br>
 
-# Awesome Capacitor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Capacitor
 
 
 > A curated list of Capacitor plugins
