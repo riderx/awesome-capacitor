@@ -174,6 +174,7 @@ Independents plugins are listed here.
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
 - [Screen recorder](https://github.com/riderx/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
+- [Sentry](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
 - [Sprig](https://github.com/crabbydavis/sprig) - All-in-one  product research platform.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
