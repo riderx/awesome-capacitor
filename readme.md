@@ -16,6 +16,7 @@
 <div align="center">
 	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
 </div>
+<br>
 
 <div align="center">
 	<a href="https://awesome.re">
@@ -74,9 +75,6 @@ Official plugins for Capacitor are listed here.
 Community plugins owned by Capacitor are listed here.
 
 - [Admob](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
-- [Appcenter](https://github.com/capacitor-community/appcenter) - Capacitor Plugin for Microsoft's App Center SDK.
-- [Appcenter analytics](https://github.com/capacitor-community/appcenter-analytics) - Capacitor plugin for AppCenter Analytics.
-- [Appcenter crashes](https://github.com/capacitor-community/appcenter-crashes) - Capacitor plugin for Microsoft's App Center Crashes.
 - [App-icon](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an iOS app icon.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
 - [App react](https://github.com/capacitor-community/app-react) - React Hooks for Capacitor App Plugin.
@@ -109,6 +107,10 @@ Community plugins owned by Capacitor are listed here.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep!
 - [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard plugin.
 - [Media](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
+- Microsft
+    - [Appcenter](https://github.com/capacitor-community/appcenter) - Capacitor Plugin for Microsoft's App Center SDK.
+    - [Analytics](https://github.com/capacitor-community/appcenter-analytics) - Capacitor plugin for AppCenter Analytics.
+    - [Crashes](https://github.com/capacitor-community/appcenter-crashes) - Capacitor plugin for Microsoft's App Center Crashes.
 - [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network plugin.
