@@ -170,6 +170,7 @@ Independents plugins are listed here.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
 - [Screen orientation](https://github.com/robingenz/capacitor-screen-orientation) - Lock/unlock the screen orientation.
+- [Screenshot](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
 - [Screen recorder](https://github.com/riderx/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
