@@ -137,10 +137,9 @@ Independents plugins are listed here.
 - [Badge](https://github.com/robingenz/capacitor-badge) - Access and update the badge number of the app icon.
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
-- [Dark mode](https://github.com/hinddeep/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
+- [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexDB for the Web platform.
 - [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
-- [Face id / Touch id](https://github.com/danielsogl/capacitor-face-id) - Allow users to authenticate with Face ID or Touch ID on iOS devices.
 - [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
 - [Flash](https://github.com/riderx/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - Firebase
