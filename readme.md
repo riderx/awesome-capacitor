@@ -79,7 +79,7 @@ Community plugins owned by Capacitor are listed here.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
 - [App react](https://github.com/capacitor-community/app-react) - React Hooks for Capacitor App Plugin.
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
-- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient (QR) barcode scanner for Capacitor.
+- [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
 - [Browser react](https://github.com/capacitor-community/browser-react) - React Hooks for Capacitor Browser plugin.
 - [Camera preview](https://github.com/capacitor-community/camera-preview) - Camera preview.
@@ -97,7 +97,7 @@ Community plugins owned by Capacitor are listed here.
 - [Filesystem-react](https://github.com/capacitor-community/filesystem-react) - React Hooks for Capacitor Filesystem plugin.
 - Firebase
     - [Analytics](https://github.com/capacitor-community/firebase-analytics) - A native plugin for firebase analytics.
-    - [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - Capacitor plugin for Firebase Crashlytics.
+    - [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
     - [Fcm](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
     - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for firebase remote config.
 - [Flipper](https://github.com/capacitor-community/flipper) - A native plugin for flipper debugger.
@@ -108,9 +108,9 @@ Community plugins owned by Capacitor are listed here.
 - [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard plugin.
 - [Media](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
 - Microsft
-    - [Appcenter](https://github.com/capacitor-community/appcenter) - Capacitor Plugin for Microsoft's App Center SDK.
-    - [Analytics](https://github.com/capacitor-community/appcenter-analytics) - Capacitor plugin for AppCenter Analytics.
-    - [Crashes](https://github.com/capacitor-community/appcenter-crashes) - Capacitor plugin for Microsoft's App Center Crashes.
+    - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter SDK.
+    - [Analytics](https://github.com/capacitor-community/appcenter-analytics) - AppCenter Analytics.
+    - [Crashes](https://github.com/capacitor-community/appcenter-crashes) - AppCenter Crashes.
 - [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network plugin.
@@ -142,7 +142,7 @@ Independents plugins are listed here.
 - [Dark mode](https://github.com/hinddeep/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexDB for the Web platform.
 - [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
-- [Face id / touch id](https://github.com/danielsogl/capacitor-face-id) - Allow users to authenticate with Face ID or Touch ID on iOS devices.
+- [Face id / Touch id](https://github.com/danielsogl/capacitor-face-id) - Allow users to authenticate with Face ID or Touch ID on iOS devices.
 - [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
 - [Flash](https://github.com/riderx/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - Firebase
