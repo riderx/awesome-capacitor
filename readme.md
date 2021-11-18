@@ -109,8 +109,8 @@ Community plugins owned by Capacitor are listed here.
 - [Media](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
 - Microsft
     - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter SDK.
-    - [Analytics](https://github.com/capacitor-community/appcenter-analytics) - AppCenter Analytics.
-    - [Crashes](https://github.com/capacitor-community/appcenter-crashes) - AppCenter Crashes.
+    - [Analytics](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter Analytics.
+    - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter Crashes.
 - [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network plugin.
