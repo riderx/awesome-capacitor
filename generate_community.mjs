@@ -10,6 +10,8 @@ root.firstChild.childNodes.forEach(element => {
         const title = element.querySelector('h3').structuredText.trim()
         const description = element.querySelector('p').structuredText.trim()
         const res = `- [${title}](https://github.com/${href}) ${description}`
-        console.log(res)
+        if (title[0] === '@') {
+            console.log(res)
+        }
     }
 });

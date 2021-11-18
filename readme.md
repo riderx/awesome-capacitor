@@ -115,7 +115,6 @@ Community plugins owned by Capacitor are listed here.
 - [@capacitor-community/text-to-speech](https://github.com/capacitor-community/text-to-speech) Capacitor plugin for synthesizing speech from text.
 - [@capacitor-community/twitter](https://github.com/capacitor-community/twitter) Enable TwitterKit features for Capacitor
 - [@capacitor-community/uxcam](https://github.com/capacitor-community/uxcam) Capacitor plugin for UXCam and FullStory analytics. It uses UXCam for Android and iOS platforms and FullStory for Web/PWA.
-- [vue-cli-plugin-capacitor](https://github.com//package/vue-cli-plugin-capacitor) A Vue CLI 3 Plugin for Capacitor
 
 ## Other
 
