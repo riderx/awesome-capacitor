@@ -114,6 +114,7 @@ Community plugins owned by Capacitor are listed here.
 - [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network plugin.
+- [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - get all the images from system album.
 - [Photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
 - [Privacy screen](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in Recents screen/App Switcher.
 - [React hooks](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
