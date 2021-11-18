@@ -32,9 +32,6 @@
 
 > A curated list of Capacitor plugins
 
-Inspired by the awesome list thing. You might also like to read complete [awesome-list](https://github.com/sindresorhus/awesome).
-
-
 ## Contents
 
 - [Official](#Official)
