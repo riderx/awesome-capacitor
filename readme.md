@@ -31,8 +31,9 @@ Inspired by the awesome list thing. You might also like to read complete [awesom
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Official](#Official)
+- [Community](#Community)
+- [Other](#Other)
 
 
 ## Official
