@@ -177,6 +177,7 @@ Independents plugins are listed here.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast!
+- [Updater](https://github.com/riderx/capacitor-updater) - Simple Hot reload update withtout pushing to the store
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video fullscreen on IOS, Android, Web and Electron platforms.
 - [Zalo loign](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 
