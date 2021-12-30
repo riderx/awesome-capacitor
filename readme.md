@@ -179,7 +179,7 @@ Independents plugins are listed here.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast!
 - [Updater](https://github.com/riderx/capacitor-updater) - Simple Hot reload update withtout pushing to the store
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video fullscreen on IOS, Android, Web and Electron platforms.
-- [Zalo loign](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
+- [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 
 
 
