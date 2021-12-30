@@ -72,7 +72,7 @@ Official plugins for Capacitor are listed here.
 Community plugins owned by Capacitor are listed here.
 
 - [Admob](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
-- [App-icon](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an iOS app icon.
+- [App-icon](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
 - [App react](https://github.com/capacitor-community/app-react) - React Hooks for Capacitor App Plugin.
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
@@ -104,7 +104,7 @@ Community plugins owned by Capacitor are listed here.
 - [Keep awake](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep!
 - [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard plugin.
 - [Media](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
-- Microsft
+- Microsoft
     - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter SDK.
     - [Analytics](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter Analytics.
     - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter Crashes.
