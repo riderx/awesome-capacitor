@@ -44,7 +44,7 @@
 Official plugins for Capacitor are listed here.
 
 - [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
-- [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high level App state and events. 
+- [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events. 
 - [App Launcher](https://github.com/ionic-team/capacitor-plugins/tree/main/app-launcher) - Allows to check if an app can be opened and open it.
 - [Browser](https://github.com/ionic-team/capacitor-plugins/tree/main/browser) - Provides the ability to open an in-app browser and subscribe to browser events.
 - [Camera](https://github.com/ionic-team/capacitor-plugins/tree/main/camera) - Provides the ability to take a photo with the camera or choose an existing one from the photo album.
@@ -59,7 +59,7 @@ Official plugins for Capacitor are listed here.
 - [Motion](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
 - [Network](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
 - [Push Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/push-notifications) - Provides access to native push notifications.
-- [Screen Reader](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and Provides simple text-to-speech capabilities for visual accessibility.
+- [Screen Reader](https://github.com/ionic-team/capacitor-plugins/tree/main/screen-reader) - Provides access to TalkBack/VoiceOver/etc. and provides simple text-to-speech capabilities for visual accessibility.
 - [Share](https://github.com/ionic-team/capacitor-plugins/tree/main/share) - Provides methods for sharing content in any sharing-enabled apps the user may have installed.
 - [Splash Screen](https://github.com/ionic-team/capacitor-plugins/tree/main/splash-screen) - Provides methods for showing or hiding a Splash image.
 - [Status Bar](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
@@ -93,10 +93,10 @@ Community plugins owned by Capacitor are listed here.
 - [Facebook Login](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
 - [Filesystem-react](https://github.com/capacitor-community/filesystem-react) - React Hooks for Capacitor Filesystem plugin.
 - Firebase
-    - [Analytics](https://github.com/capacitor-community/firebase-analytics) - A native plugin for firebase analytics.
+    - [Analytics](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
     - [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
     - [Fcm](https://github.com/capacitor-community/fcm) - Enable Firebase Cloud Messaging features for Capacitor apps.
-    - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for firebase remote config.
+    - [Remote config](https://github.com/capacitor-community/firebase-remote-config) - A native plugin for Firebase remote config.
 - [Flipper](https://github.com/capacitor-community/flipper) - A native plugin for flipper debugger.
 - [Geolocation react](https://github.com/capacitor-community/geolocation-react) - React Hooks for Capacitor GeoLocation plugin.
 - [Http](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
@@ -112,11 +112,11 @@ Community plugins owned by Capacitor are listed here.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network plugin.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - get all the images from system album.
-- [Photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with fullscreen and sharing capabilities.
-- [Privacy screen](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in Recents screen/App Switcher.
+- [Photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
+- [Privacy screen](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
 - [React hooks](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
 - [Realm](https://github.com/capacitor-community/realm) - A native plugin for MongoDB Realm.
-- [Screen brightness](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on ios and android.
+- [Screen brightness](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 - [Screen reader react](https://github.com/capacitor-community/screen-reader-react) - React Hooks for Capacitor ScreenReader plugin.
 - [Speech recognition](https://github.com/capacitor-community/speech-recognition) - A native plugin for speech recognition.
 - [Sqlite](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
@@ -154,7 +154,7 @@ Independents plugins are listed here.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Setect faces in an image, identify key facial features, and get the contours of detected faces.
 - [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKi.
-- [Intent](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents Android.
+- [Intent](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Mute](https://github.com/riderx/capacitor-mute) - Detect silent mode and mute audio.
@@ -163,7 +163,7 @@ Independents plugins are listed here.
     - [NativeScript Capacitor](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
     - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
 - [Navigation bar](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
-- [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the oauth parameters yourself instead of using SDKs.
+- [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
 - [Print](https://github.com/leoruhland/capacitor-print) - Print the webview.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
@@ -177,8 +177,8 @@ Independents plugins are listed here.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast!
-- [Updater](https://github.com/riderx/capacitor-updater) - Simple Hot reload update withtout pushing to the store
-- [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video fullscreen on IOS, Android, Web and Electron platforms.
+- [Updater](https://github.com/riderx/capacitor-updater) - Simple Hot reload update without pushing to the store
+- [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 
 
