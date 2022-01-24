@@ -34,9 +34,9 @@
 
 ## Contents
 
-- [Official](#Official)
-- [Community](#Community)
-- [Other](#Other)
+- [Official](#official)
+- [Community](#community)
+- [Other](#other)
 
 
 ## Official
@@ -183,6 +183,6 @@ Independents plugins are listed here.
 
 
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) - first.
