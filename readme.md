@@ -105,13 +105,13 @@ Community plugins owned by Capacitor are listed here.
 - [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard plugin.
 - [Media](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
 - Microsoft
-    - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter SDK.
-    - [Analytics](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter Analytics.
-    - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor) - AppCenter Crashes.
+    - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
+    - [Analytics](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
+    - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
 - [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network plugin.
-- [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - get all the images from system album.
+- [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 - [Photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
 - [Privacy screen](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
 - [React hooks](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
@@ -137,7 +137,7 @@ Independents plugins are listed here.
 - [Badge](https://github.com/robingenz/capacitor-badge) - Access and update the badge number of the app icon.
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
-- [Crisp](https://github.com/riderx/capacitor-crisp) - Crisp chat SDK for your app
+- [Crisp](https://github.com/riderx/capacitor-crisp) - Crisp chat SDK for your app.
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 - [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
