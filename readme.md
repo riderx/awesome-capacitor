@@ -65,7 +65,7 @@ Official plugins for Capacitor are listed here.
 - [Status Bar](https://github.com/ionic-team/capacitor-plugins/tree/main/status-bar) - Provides methods for configuring the style of the Status Bar, along with showing or hiding it.
 - [Storage](https://github.com/ionic-team/capacitor-plugins/tree/main/storage) - Provides a simple key/value persistent store for lightweight data.
 - [Text Zoom](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
-- [Toast](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a notification pop up for displaying important information to a user. Just like real toast!
+- [Toast](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
 
 ## Community
 
@@ -101,7 +101,7 @@ Community plugins owned by Capacitor are listed here.
 - [Geolocation react](https://github.com/capacitor-community/geolocation-react) - React Hooks for Capacitor GeoLocation plugin.
 - [Http](https://github.com/capacitor-community/http) - A native HTTP plugin for CORS-free requests and file transfers.
 - [Intercom](https://github.com/capacitor-community/intercom) - Enable Intercom features for Capacitor apps.
-- [Keep awake](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep!
+- [Keep awake](https://github.com/capacitor-community/keep-awake) - Prevent your screen from getting some sleep.
 - [Keyboard react](https://github.com/capacitor-community/keyboard-react) - React Hooks for Capacitor Keyboard plugin.
 - [Media](https://github.com/capacitor-community/media) - Enable some media features for Capacitor such as create albums, save videos, gifs and more.
 - Microsoft
@@ -153,13 +153,13 @@ Independents plugins are listed here.
     - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Setect faces in an image, identify key facial features, and get the contours of detected faces.
-- [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKi.
+- [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 - [Intent](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Mute](https://github.com/riderx/capacitor-mute) - Detect silent mode and mute audio.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
-- [NativeScript](https://docs.nativescript.org/plugins/index.html) Official plugin list
+- NativeScript
     - [NativeScript Capacitor](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
     - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
 - [Navigation bar](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
@@ -176,8 +176,8 @@ Independents plugins are listed here.
 - [Sprig](https://github.com/crabbydavis/sprig) - All-in-one  product research platform.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
-- [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast!
-- [Updater](https://github.com/riderx/capacitor-updater) - Simple Hot reload update without pushing to the store
+- [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
+- [Updater](https://github.com/riderx/capacitor-updater) - Simple Hot reload update without pushing to the store.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 
