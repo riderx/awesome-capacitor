@@ -189,6 +189,10 @@ Places to learn about Capacitor
 - [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it's not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
 - [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor) - A very popular stack for building responsive web apps is Tailwind CSS and Next.js by Vercel.
 
+### Books
+
+- [Building cross platform app with Capacitor](https://go.ionic.io/capacitor) - A New Approach to Cross-Platform Development.
+
 ### Case study
 
 - [Burger King](https://ionic.io/resources/articles/burger-king-design-system) - How Burger King Brought Their Design System to Mobile.
