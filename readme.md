@@ -6,7 +6,7 @@
 </div>
 <br/>
 <div align="center">
-⚡ A curated list of awesome ressources related to the <a href='https://www.capacitorjs.com/'>Capacitor</a> Plateform.
+⚡ A curated list of awesome resources related to the <a href='https://www.capacitorjs.com/'>Capacitor</a> Platform.
 <br />
 Capacitor is an open source native runtime for building Web Native apps. Create cross-platform iOS, Android, and Progressive Web Apps with JavaScript, HTML, and CSS.
 <br/>
