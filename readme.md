@@ -186,7 +186,7 @@ Places to learn about Capacitor
 - [Creating a Local Plugin](https://www.joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor/) - Running Custom Native iOS Code with Capacitor.
 - [Publishing Capacitor Plugin on NPM](https://www.joshmorony.com/publishing-a-custom-ios-capacitor-plugin-on-npm/) - Build and publish a standalone Capacitor plugin using the Capacitor CLI.
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - Demonstrate why referring to Capacitor applications as "not native" is inaccurate and confusing terminology.
-- [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it’s not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
+- [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it's not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
 - [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor) - A very popular stack for building responsive web apps is Tailwind CSS and Next.js by Vercel.
 
 ### Case study
@@ -202,7 +202,7 @@ Places to discuss about Capacitor
 - [Discord](https://discord.com/invite/UPYYRhtyzp) - Official Discord community.
 - [Forum](https://forum.ionicframework.com/c/capacitor) - Official Forum community.
 - [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
-- [Stackoverflow](https://stackoverflow.com/tags/capacitor) - Official Stackoverflow community.
+- [Stack Overflow](https://stackoverflow.com/tags/capacitor) - Official Stack Overflow community.
 
 
 ## Contributing
