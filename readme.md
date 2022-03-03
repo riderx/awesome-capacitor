@@ -1,47 +1,34 @@
+# Awesome Capacitor [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 <div align="center">
-	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome">
+	<img width="100%" src="https://raw.githubusercontent.com/riderx/awesome-capacitor/main/awesome_capacitor.png" alt="Awesome">
 	<br>
 </div>
-
-<p align="center">
-	<a href="https://github.com/sindresorhus/awesome/blob/main/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/sindresorhus/awesome/blob/main/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
-</p>
-
-<br>
-
+<br/>
 <div align="center">
-	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
+⚡ A curated list of awesome ressources related to the <a href='https://www.capacitorjs.com/'>Capacitor</a> Plateform.
+<br />
+Capacitor is an open source native runtime for building Web Native apps. Create cross-platform iOS, Android, and Progressive Web Apps with JavaScript, HTML, and CSS.
+<br/>
+<a><img src="https://page-views.glitch.me/badge?page_id=riderx.awesome-capacitor&right_color=blue" /></a>
 </div>
-<br>
-
-<div align="center">
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-	</a>
-</div>
-<br>
 
 <br>
 
-# Awesome Capacitor
-
-
-> A curated list of Capacitor plugins
+<br>
 
 ## Contents
 
-- [Official](#official)
+- [Official plugins](#official-plugins)
+- [Community plugins](#community-plugins)
+- [Other plugins](#other-plugins)
+- [Learning](#learning)
 - [Community](#community)
-- [Other](#other)
 
 
-## Official
+## Official plugins
 
-Official plugins for Capacitor are listed here.
+Official plugins for [Capacitor](https://github.com/ionic-team/capacitor-plugins) and maintained by ionic are listed here.
 
 - [Action Sheet](https://github.com/ionic-team/capacitor-plugins/tree/main/action-sheet) - Provides access to native Action Sheets.
 - [App](https://github.com/ionic-team/capacitor-plugins/tree/main/app) - Handles high-level App state and events. 
@@ -67,9 +54,9 @@ Official plugins for Capacitor are listed here.
 - [Text Zoom](https://github.com/ionic-team/capacitor-plugins/tree/main/text-zoom) - Provides the ability to change Web View text size for visual accessibility.
 - [Toast](https://github.com/ionic-team/capacitor-plugins/tree/main/toast) - Provides a native notification pop up for displaying important information to a user.
 
-## Community
+## Community plugins
 
-Community plugins owned by Capacitor are listed here.
+Community plugins owned by [Capacitor organisation](https://github.com/capacitor-community) and maintained by selected community member are listed here.
 
 - [Admob](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
 - [App-icon](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
@@ -127,7 +114,7 @@ Community plugins owned by Capacitor are listed here.
 - [Twitter](https://github.com/capacitor-community/twitter) - Enable TwitterKit features for Capacitor.
 - [Uxcam](https://github.com/capacitor-community/uxcam) - UXCam and FullStory analytics. It uses UXCam for Android and iOS platforms and FullStory for Web/PWA.
 
-## Other
+## Other plugins
 
 Independents plugins are listed here.
 
@@ -181,6 +168,41 @@ Independents plugins are listed here.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 
+## Learning
+
+Places to learn about Capacitor
+
+
+### Crash Courses
+
+- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course/) - Learn to use Capacitor with Ionic by Simon Grimm.
+
+### Tutorials
+
+- [How Capacitor Works](https://capacitorjs.com/blog/how-capacitor-works) - Capacitor takes a modern web app, and then packages it up to run on iOS, Android, and PWA.
+- [Capacitor Tutorial](https://ionicthemes.com/tutorials/native-cross-platform-web-apps-with-ionic-capacitor) - Getting Started with Capacitor.
+- [Adding Icons & Splash Screens to Capacitor](https://www.joshmorony.com/adding-icons-splash-screens-launch-images-to-capacitor-projects/) - Generating the Icon and Splash Screen Asset.
+- [Capacitor Workflow in an Ionic Application](https://www.youtube.com/watch?v=oXbRcpsytGQ) - Cover the basic workflow when using Capacitor in an Ionic application.
+- [Creating a Local Plugin](https://www.joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor/) - Running Custom Native iOS Code with Capacitor.
+- [Publishing Capacitor Plugin on NPM](https://www.joshmorony.com/publishing-a-custom-ios-capacitor-plugin-on-npm/) - Build and publish a standalone Capacitor plugin using the Capacitor CLI.
+- [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - Demonstrate why referring to Capacitor applications as "not native" is inaccurate and confusing terminology.
+- [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it’s not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
+- [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor) - A very popular stack for building responsive web apps is Tailwind CSS and Next.js by Vercel.
+
+### Case study
+
+- [Burger King](https://ionic.io/resources/articles/burger-king-design-system) - How Burger King Brought Their Design System to Mobile.
+- [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - This guide provides an overview of Capacitor and how it stacks up against Cordova.
+
+## Community
+
+Places to discuss about Capacitor
+
+
+- [Discord](https://discord.com/invite/UPYYRhtyzp) - Official Discord community.
+- [Forum](https://forum.ionicframework.com/c/capacitor) - Official Forum community.
+- [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
+- [Stackoverflow](https://stackoverflow.com/tags/capacitor) - Official Stackoverflow community.
 
 
 ## Contributing
