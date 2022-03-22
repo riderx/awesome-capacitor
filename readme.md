@@ -167,6 +167,7 @@ Independents plugins are listed here.
 - [Updater](https://github.com/Cap-go/capacitor-updater) - OTA update for capacitor.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
+- [Purchases](https://github.com/riderx/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 
 ## Learning
 
