@@ -170,6 +170,7 @@ Independents plugins are listed here.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 - [Purchases](https://github.com/riderx/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+- [Firebase push](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It does support Data.
 
 ## Learning
 
