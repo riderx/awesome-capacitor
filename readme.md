@@ -23,6 +23,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Community plugins](#community-plugins)
 - [Other plugins](#other-plugins)
 - [Learning](#learning)
+- [Demo app](#demo-app)
 - [Community](#community)
 
 
@@ -202,6 +203,13 @@ Places to learn about Capacitor
 - [Burger King](https://ionic.io/resources/articles/burger-king-design-system) - How Burger King Brought Their Design System to Mobile.
 - [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - This guide provides an overview of Capacitor and how it stacks up against Cordova.
 
+## Demo Apps
+
+- [capacitor-testapp](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
+- [capacitor-plugin-demo](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
+- [capacitor-firebase-plugin-demo](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
+- [capacitor-updater-plugin-demo](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates
+
 ## Community
 
 Places to discuss about Capacitor
@@ -211,7 +219,7 @@ Places to discuss about Capacitor
 - [Forum](https://forum.ionicframework.com/c/capacitor) - Official Forum community.
 - [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
 - [Stack Overflow](https://stackoverflow.com/tags/capacitor) - Official Stack Overflow community.
-
+- [Proposal](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests
 
 ## Contributing
 
