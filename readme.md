@@ -192,22 +192,36 @@ Independents plugins are listed here.
 
 Places to learn about Capacitor
 
+### Offical guides 
+
+- [How Capacitor Works](https://capacitorjs.com/blog/how-capacitor-works) - Capacitor takes a modern web app, and then packages it up to run on iOS, Android, and PWA.
+- [Creating Plugins](https://capacitorjs.com/docs/plugins/creating-plugins) - This guide will help you get started creating a shareable Capacitor plugin which will be published on npm.
+- [Creating Splash Screens and Icons](https://capacitorjs.com/docs/guides/splash-screens-and-icons) - Use cordova-res to generate resource images for native projects.
+- [App Deployment and Realtime Updates](https://capacitorjs.com/docs/guides/deploying-updates) - Update your Capacitor app remotely through the app stores.
+- [CI/CD for Capacitor Apps](https://capacitorjs.com/docs/guides/ci-cd) - Adding Mobile CI/CD to your Capacitor App development process.
+- [Data Storage in Capacitor](https://capacitorjs.com/docs/guides/storage) - Storing small to large amounts of data in Capacitor.
+- [Security Best Practices for Capacitor](https://capacitorjs.com/docs/guides/security) - Security best practices for your Capacitor apps.
+- [Using Push Notifications with Firebase](https://capacitorjs.com/docs/guides/push-notifications-firebase) - Learn how to get Firebase Cloud Messaging working on iOS and Android.
+- [Saving Plugin Calls](https://capacitorjs.com/docs/core-apis/saving-calls) - How to save plugin calls in Capacitor.
+- [Mocking Capacitor Plugins](https://capacitorjs.com/docs/guides/mocking-plugins) - How to create mock objects for Capacitor plugins.
+- [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor) - A very popular stack for building responsive web apps is Tailwind CSS and Next.js by Vercel.
 
 ### Crash Courses
 
 - [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course/) - Learn to use Capacitor with Ionic by Simon Grimm.
 
-### Tutorials
+### Community Tutorials
 
-- [How Capacitor Works](https://capacitorjs.com/blog/how-capacitor-works) - Capacitor takes a modern web app, and then packages it up to run on iOS, Android, and PWA.
 - [Capacitor Tutorial](https://ionicthemes.com/tutorials/native-cross-platform-web-apps-with-ionic-capacitor) - Getting Started with Capacitor.
 - [Adding Icons & Splash Screens to Capacitor](https://www.joshmorony.com/adding-icons-splash-screens-launch-images-to-capacitor-projects/) - Generating the Icon and Splash Screen Asset.
 - [Capacitor Workflow in an Ionic Application](https://www.youtube.com/watch?v=oXbRcpsytGQ) - Cover the basic workflow when using Capacitor in an Ionic application.
 - [Creating a Local Plugin](https://www.joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor/) - Running Custom Native iOS Code with Capacitor.
 - [Publishing Capacitor Plugin on NPM](https://www.joshmorony.com/publishing-a-custom-ios-capacitor-plugin-on-npm/) - Build and publish a standalone Capacitor plugin using the Capacitor CLI.
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - Demonstrate why referring to Capacitor applications as "not native" is inaccurate and confusing terminology.
-- [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it's not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
-- [Build Mobile Apps with Tailwind CSS, Next.js, Ionic Framework, and Capacitor](https://capacitorjs.com/blog/mobile-apps-with-tailwind-css-nextjs-ionic-and-capacitor) - A very popular stack for building responsive web apps is Tailwind CSS and Next.js by Vercel.
+- [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in just a few simple steps.
+- [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - Set up Capacitor-updater into your app to seamless releases update to your users.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with Github actions for free, to deploy your app every time you push to main.
+
 
 ### Books
 
@@ -217,6 +231,7 @@ Places to learn about Capacitor
 
 - [Burger King](https://ionic.io/resources/articles/burger-king-design-system) - How Burger King Brought Their Design System to Mobile.
 - [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - This guide provides an overview of Capacitor and how it stacks up against Cordova.
+- [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it's not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
 
 ## Demo Apps
 
