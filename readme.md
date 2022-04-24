@@ -22,8 +22,9 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Official plugins](#official-plugins)
 - [Community plugins](#community-plugins)
 - [Other plugins](#other-plugins)
+- [Tools](#tools)
 - [Learning](#learning)
-- [Demo app](#demo-app)
+- [Demo apps](#demo-apps)
 - [Community](#community)
 
 
@@ -99,7 +100,6 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Network react](https://github.com/capacitor-community/network-react) - React Hooks for Capacitor Network plugin.
-- [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 - [Photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
 - [Privacy screen](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
 - [React hooks](https://github.com/capacitor-community/react-hooks) - React Hooks for Capacitor apps.
@@ -119,7 +119,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 
 Independents plugins are listed here.
 
-- [App update](https://github.com/robingenz/capacitor-app-update) - Retrieving app update information on Android and iOS.
+- [OTA Updater](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 - [Background tasks](https://github.com/robingenz/capacitor-background-task) - A native plugin for running background tasks.
 - [Badge](https://github.com/robingenz/capacitor-badge) - Access and update the badge number of the app icon.
@@ -134,9 +134,14 @@ Independents plugins are listed here.
 - [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
 - [Flash](https://github.com/riderx/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - Firebase
-    - [Auth](https://github.com/baumblatt/capacitor-firebase-auth) - Handle the authentication on Native layer and propagate the token to the web view layer. 
+    - [Analytics](https://github.com/robingenz/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
+    - [App](https://github.com/robingenz/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
+    - [Auth](https://github.com/robingenz/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
+    - [Performance](https://github.com/robingenz/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
+    - [Crashlytics](https://github.com/robingenz/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
     - [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
     - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
+    - [Push](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
 - Google
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
@@ -167,11 +172,21 @@ Independents plugins are listed here.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - SumUp Mobile SDK.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
-- [Updater](https://github.com/Cap-go/capacitor-updater) - OTA update for capacitor.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 - [Purchases](https://github.com/riderx/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-- [Firebase push](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It does support Data.
+- [Android dark mode](https://github.com/robingenz/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
+- [Native updates](https://github.com/robingenz/capacitor-app-update) - Capacitor plugin that assists with app updates.
+- [File picker](https://github.com/robingenz/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
+- [Managed configuratio](https://github.com/robingenz/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+- [Photo editor](https://github.com/robingenz/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+- [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
+
+## Tools
+
+- [Docgen](https://github.com/ionic-team/capacitor-docgen) - Docs Readme Markdown and JSON Generator for Capacitor Plugins.
+- [Plugin generator](https://github.com/ionic-team/create-capacitor-plugin) - Create a new Capacitor plugin.
+- [Assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 
 ## Learning
 
