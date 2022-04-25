@@ -220,7 +220,7 @@ Places to learn about Capacitor
 - [Do Capacitor applications are native ?](https://www.joshmorony.com/is-an-ionic-application-native/) - Demonstrate why referring to Capacitor applications as "not native" is inaccurate and confusing terminology.
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in just a few simple steps.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - Set up Capacitor-updater into your app to seamless releases update to your users.
-- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with Github actions for free, to deploy your app every time you push to main.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with GitHub actions for free, to deploy your app every time you push to main.
 
 
 ### Books
@@ -233,23 +233,22 @@ Places to learn about Capacitor
 - [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - This guide provides an overview of Capacitor and how it stacks up against Cordova.
 - [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it's not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
 
-## Demo Apps
+## Demo apps
 
 - [capacitor-testapp](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
 - [capacitor-plugin-demo](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
 - [capacitor-firebase-plugin-demo](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
-- [capacitor-updater-plugin-demo](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates
+- [capacitor-updater-plugin-demo](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
 
 ## Community
 
 Places to discuss about Capacitor
 
-
 - [Discord](https://discord.com/invite/UPYYRhtyzp) - Official Discord community.
 - [Forum](https://forum.ionicframework.com/c/capacitor) - Official Forum community.
 - [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
 - [Stack Overflow](https://stackoverflow.com/tags/capacitor) - Official Stack Overflow community.
-- [Proposal](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests
+- [Proposal](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## Contributing
 
