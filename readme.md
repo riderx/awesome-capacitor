@@ -63,7 +63,6 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Admob](https://github.com/capacitor-community/admob) - A native plugin for AdMob.
 - [App-icon](https://github.com/capacitor-community/app-icon) - Capacitor community plugin for changing an app's icon.
 - [Apple sign in](https://github.com/capacitor-community/apple-sign-in) - Capacitor Sign in with Apple.
-- [App react](https://github.com/capacitor-community/app-react) - React Hooks for Capacitor App Plugin.
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
 - [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
