@@ -119,6 +119,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 Independents plugins are listed here.
 
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
+- [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 - [Background tasks](https://github.com/robingenz/capacitor-background-task) - A native plugin for running background tasks.
 - [Badge](https://github.com/robingenz/capacitor-badge) - Access and update the badge number of the app icon.
