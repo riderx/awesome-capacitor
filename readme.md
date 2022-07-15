@@ -153,6 +153,7 @@ Independents plugins are listed here.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Mute](https://github.com/riderx/capacitor-mute) - Detect silent mode and mute audio.
+- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
 - NativeScript
     - [NativeScript Capacitor](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
