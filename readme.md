@@ -147,7 +147,7 @@ Independents plugins are listed here.
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
-    - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Setect faces in an image, identify key facial features, and get the contours of detected faces.
+    - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 - [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 - [Intent](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
