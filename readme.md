@@ -160,6 +160,7 @@ Independents plugins are listed here.
     - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
 - [Navigation bar](https://github.com/hugotomazi/navigation-bar) - Navigation Bar manipulation, hide/show.
 - [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+- [Playlist](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 - [Print](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
