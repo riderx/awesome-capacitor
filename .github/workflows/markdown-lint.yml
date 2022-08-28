@@ -6,7 +6,7 @@ on:
     - main
   schedule:
   # Run every first day at 00:00 AM every month.
-  - cron: "0 0 * * *"
+  - cron: "0 0 1 * *"
 
 jobs:
   markdown-link-check:
