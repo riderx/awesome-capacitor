@@ -66,7 +66,6 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Background geolocation](https://github.com/capacitor-community/background-geolocation) - Receive geolocation updates even while app is backgrounded.
 - [Barcode scanner](https://github.com/capacitor-community/barcode-scanner) - A fast and efficient QR / barcode scanner for Capacitor.
 - [Bluetooth-le](https://github.com/capacitor-community/bluetooth-le) - Bluetooth Low Energy.
-- [Browser react](https://github.com/capacitor-community/browser-react) - React Hooks for Capacitor Browser plugin.
 - [Camera preview](https://github.com/capacitor-community/camera-preview) - Camera preview.
 - [Camera react](https://github.com/capacitor-community/camera-react) - React Hooks for Capacitor Camera plugin.
 - [Googlemaps](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
@@ -183,6 +182,8 @@ Independents plugins are listed here.
 - [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
+- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+- [Native geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 
 ## Tools
 
