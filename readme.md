@@ -70,10 +70,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Googlemaps](https://github.com/capacitor-community/capacitor-googlemaps-native) - Plugin using native Maps API for Android and iOS.
 - [Contacts](https://github.com/capacitor-community/contacts) - Contacts Plugin for Capacitor.
 - [Date picker](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
-- Electron
-    - [Electron](https://github.com/capacitor-community/electron) - Support for the Electron platform.
-    - [Electron core](https://github.com/capacitor-community/electron-core) - Core for the Capacitor Community Electron platform.
-    - [Electron platform](https://github.com/capacitor-community/electron-platform) - Support for the Electron platform.
+- [Electron](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 - [Facebook Login](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
 - Firebase
     - [Analytics](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
