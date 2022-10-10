@@ -103,31 +103,55 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Twitter](https://github.com/capacitor-community/twitter) - Enable TwitterKit features for Capacitor.
 - [Uxcam](https://github.com/capacitor-community/uxcam) - UXCam and FullStory analytics. It uses UXCam for Android and iOS platforms and FullStory for Web/PWA.
 
-## Other plugins
-
-Independents plugins are listed here.
+## [Capgo plugins](https://capgo.app/)
+Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained by [@riderx](https://github.com/riderx) and community member with Open collective .
 
 - [OTA Updater](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
-- [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app
-- [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
+- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
+- [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
+- [Mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
+- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+- [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
+- [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
+- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
+- [Native geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
+
+## [Capawesome plugins](https://capawesome.io/)
+Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) and maintained by [@robingenz](https://github.com/robingenz).
+
 - [Background tasks](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
 - [Badge](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
-- [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
-- [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
-- [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
-- [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
-- [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
-- [Dynamsoft Barcode Reader](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
-- [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
-- [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
-- [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - Firebase
     - [Analytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase plugins for Capacitor. Supports Android, iOS and the web.
     - [App](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/app/README.md) - Capacitor plugin for Firebase App.
     - [Auth](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/authentication/README.md) - Handle the authentication on Native layer and propagate the token to the web view layer.
     - [Performance](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
     - [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
+- [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
+- [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
+- [Native updates](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
+- [File picker](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
+- [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+
+## Other plugins
+
+Independents plugins are listed here.
+
+- [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app
+- [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
+
+- [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
+- [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
+
+- [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
+- [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
+- [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
+- [Dynamsoft Barcode Reader](https://github.com/xulihang/capacitor-plugin-dynamsoft-barcode-reader) - Scan barcodes and QR codes using Dynamsoft Barcode Reader.
+- [Email composer](https://github.com/EinfachHans/capacitor-email-composer) - Open a native E-Mail Composer within your Capacitor App.
+- [Facebook Analytics](https://github.com/SpellChucker/capacitor-plugin-facebook-analytics) - Facebook Analytics Plugin for Capacitor.
+
+- Firebase
     - [AppCheck](https://github.com/mattmilan-dev/capacitor-firebase-appcheck) - Allows usage of native AppCheck tokens.
     - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     - [Push](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
@@ -141,8 +165,6 @@ Independents plugins are listed here.
 - [Intent](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
-- [Mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
 - NativeScript
     - [NativeScript Capacitor](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
@@ -153,9 +175,7 @@ Independents plugins are listed here.
 - [Print](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
-- [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
-- [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
 - [Sentry](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
@@ -165,15 +185,7 @@ Independents plugins are listed here.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
-- [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
-- [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
-- [Native updates](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
-- [File picker](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
-- [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
-- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
-- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
-- [Native geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 
 ## Tools
 
