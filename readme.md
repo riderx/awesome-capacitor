@@ -74,6 +74,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Date picker](https://github.com/capacitor-community/date-picker) - Native DateTime Picker Plugin for Capacitor Apps.
 - [Electron](https://github.com/capacitor-community/electron) - Support for the Electron platform.
 - [Facebook Login](https://github.com/capacitor-community/facebook-login) - A native plugin for Facebook Login.
+- [File opener](https://github.com/capacitor-community/file-opener) - The plugin is able to open a file given the mimeType and the file uri.
 - Firebase
     - [Analytics](https://github.com/capacitor-community/firebase-analytics) - A native plugin for Firebase analytics.
     - [Crashlytics](https://github.com/capacitor-community/firebase-crashlytics) - Firebase Crashlytics.
