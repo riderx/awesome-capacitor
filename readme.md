@@ -115,7 +115,6 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [Purchases](https://github.com/Cap-go/capacitor-purchases) - Capacitor in-app purchases and subscriptions made easy with RevenueCat.
 - [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent.
-- [Native geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 
 ## [Capawesome plugins](https://capawesome.io/)
 Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) and maintained by [@robingenz](https://github.com/robingenz).
@@ -132,7 +131,7 @@ Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) a
 - [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
-- [Managed configuratio](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+- [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
 ## Other plugins
