@@ -166,6 +166,7 @@ Independents plugins are listed here.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
 - Google
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    - [Availability](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device
     - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
