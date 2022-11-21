@@ -1,12 +1,13 @@
 name: Check Markdown links
 
 on:
+  workflow_dispatch:
   push:
     branches:
     - main
   schedule:
   # Run every first day at 00:00 AM every month.
-  - cron: "0 0 * * *"
+    - cron: "0 0 * * *"
   issues:
     types: [opened, edited]
 
@@ -21,3 +22,5 @@ jobs:
         use-quiet-mode: 'yes'
         use-verbose-mode: 'yes'
         config-file: '.github/workflows/markdown.links.config.json'
+    - name: Awesome linter
+      run: npx awesome-lint
