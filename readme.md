@@ -149,7 +149,6 @@ Independents plugins are listed here.
 
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
-
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 - [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
@@ -168,6 +167,7 @@ Independents plugins are listed here.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
 - Google
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
+    - [Availability](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
     - [Fit](https://github.com/Ad-Scientiam/capacitor-google-fit) - Retrieve data from Google Fit.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
