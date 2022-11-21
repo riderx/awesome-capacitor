@@ -146,7 +146,7 @@ Independents plugins are listed here.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
-- [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
+- [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users
 
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
