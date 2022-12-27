@@ -13,7 +13,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <a><img src="https://page-views.glitch.me/badge?page_id=riderx.awesome-capacitor&right_color=blue" /></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/">Check out: Capgo — Instant updates for capacitor</a></h2>
+<h2><a href="https://capgo.app/">Check out: Capgo — Live updates for capacitor</a></h2>
 </div>
 <br>
 
