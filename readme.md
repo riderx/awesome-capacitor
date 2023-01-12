@@ -134,7 +134,6 @@ Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) a
     - [Performance](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/performance/README.md) - Capacitor plugin for Firebase Performance Monitoring.
     - [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Capacitor plugin for Firebase Crashlytics.
 - [Screen orientation](https://github.com/capawesome-team/capacitor-screen-orientation) - Lock/unlock the screen orientation.
-- [Android dark mode](https://github.com/capawesome-team/capacitor-android-dark-mode-support) - Capacitor plugin to support dark mode on Android.
 - [Native updates](https://github.com/capawesome-team/capacitor-app-update) - Capacitor plugin that assists with app updates.
 - [File picker](https://github.com/capawesome-team/capacitor-file-picker) - Capacitor plugin that allows the user to select a file.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
