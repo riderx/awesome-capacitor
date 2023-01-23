@@ -302,3 +302,7 @@ Places to discuss about Capacitor
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) - first.
+
+## Author
+
+<a href="https://capgo.app/">Capgo — Live updates for capacitor</a>
