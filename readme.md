@@ -25,6 +25,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Community plugins](#community-plugins)
 - [Capgo plugins](#capgo-plugins)
 - [Capawesome plugins](#capawesome-plugins)
+- [Transistor Software plugins](#transistor-software-plugins)
 - [Other plugins](#other-plugins)
 - [Tools](#tools)
 - [Learning](#learning)
