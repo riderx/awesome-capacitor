@@ -205,6 +205,9 @@ Independents plugins are listed here.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on IOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
+- [Navigation Bar](https://github.com/hugotomazi/navigation-bar) - Android Navigation Bar plugin.
+
+
 
 ## Cordova plugins
 
