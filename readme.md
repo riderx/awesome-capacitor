@@ -32,6 +32,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Learning](#learning)
 - [Demo apps](#demo-apps)
 - [Community](#community)
+- [Freelancer](#freelancer)
 - [Author](#author)
 
 
@@ -113,7 +114,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 ## [Capgo plugins](https://capgo.app/)
 Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained by [@riderx](https://github.com/riderx) and community member with Open collective .
 
-- [OTA Updater](https://github.com/Cap-go/capacitor-updater) - Over the air update for capacitor app.
+- [Live Update](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - [Mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
@@ -275,7 +276,13 @@ Places to learn about Capacitor
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in just a few simple steps.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - Set up Capacitor-updater into your app to seamless releases update to your users.
 - [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with GitHub actions for free, to deploy your app every time you push to main.
+- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
+- 
 
+### Freelancers
+
+- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - The creator of this list and of Capgo live update system + 10 plugins.
+- 
 
 ### Books
 
