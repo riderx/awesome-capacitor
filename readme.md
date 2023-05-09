@@ -21,6 +21,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 
 ## Contents
 
+- [Sponsors](#sponsors)
 - [Official plugins](#official-plugins)
 - [Community plugins](#community-plugins)
 - [Capgo plugins](#capgo-plugins)
@@ -32,8 +33,12 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Learning](#learning)
 - [Demo apps](#demo-apps)
 - [Community](#community)
-- [Freelancer](#freelancer)
+- [Freelancers](#freelancer)
 - [Author](#author)
+
+## Sponsors
+
+<a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/></a>
 
 
 ## Official plugins
@@ -307,7 +312,10 @@ Places to discuss about Capacitor
 
 ## Freelancers
 
-- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - The creator of this list and of Capgo live update system + 10 plugins.
+- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - Creator of this list and of Capgo live update system + 10 plugins.
+- [Christophe Surbier](https://www.malt.fr/profile/christophesurbier) - Expert developer mobile since 2009 and Capacitor since 2017
+- [Timothee Porcq](https://www.malt.fr/profile/timotheeporcq) - Expert developer Mobile Ionic/Angular & Capacitor +7 years
+- [Nicolas Izac](https://www.malt.fr/profile/nicolasizac) - Developper Fullstack | Vue-Angular-Ionic-Laravel +7 years
 
 ## Contributing
 
