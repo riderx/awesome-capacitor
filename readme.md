@@ -277,12 +277,6 @@ Places to learn about Capacitor
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - Set up Capacitor-updater into your app to seamless releases update to your users.
 - [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with GitHub actions for free, to deploy your app every time you push to main.
 - [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
-- 
-
-### Freelancers
-
-- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - The creator of this list and of Capgo live update system + 10 plugins.
-
 
 ### Books
 
@@ -310,6 +304,10 @@ Places to discuss about Capacitor
 - [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
 - [Stack Overflow](https://stackoverflow.com/tags/capacitor) - Official Stack Overflow community.
 - [Proposal](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
+
+## Freelancers
+
+- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - The creator of this list and of Capgo live update system + 10 plugins.
 
 ## Contributing
 
