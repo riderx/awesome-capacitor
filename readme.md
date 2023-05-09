@@ -282,7 +282,7 @@ Places to learn about Capacitor
 ### Freelancers
 
 - [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - The creator of this list and of Capgo live update system + 10 plugins.
-- 
+
 
 ### Books
 
