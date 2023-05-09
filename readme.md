@@ -108,6 +108,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Text to speech](https://github.com/capacitor-community/text-to-speech) - Synthesizing speech from text.
 - [Twitter](https://github.com/capacitor-community/twitter) - Enable TwitterKit features for Capacitor.
 - [Uxcam](https://github.com/capacitor-community/uxcam) - UXCam and FullStory analytics. It uses UXCam for Android and iOS platforms and FullStory for Web/PWA.
+- [Websocket](https://github.com/mia-z/capacitor-websocket) - Plugin providing native Websocket implementations for each platform.
 
 ## [Capgo plugins](https://capgo.app/)
 Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained by [@riderx](https://github.com/riderx) and community member with Open collective .
