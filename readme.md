@@ -316,6 +316,7 @@ Places to discuss about Capacitor
 - [Christophe Surbier](https://www.malt.fr/profile/christophesurbier) - Expert developer mobile since 2009 and Capacitor since 2017
 - [Timothee Porcq](https://www.malt.fr/profile/timotheeporcq) - Expert developer Mobile Ionic/Angular & Capacitor +7 years
 - [Nicolas Izac](https://www.malt.fr/profile/nicolasizac) - Developper Fullstack | Vue-Angular-Ionic-Laravel +7 years
+- [Alexandre Grisey](https://linktr.ee/alex_gsy) - Mobile App Developer since 2013 (Cordova - Capacitor - Ionic) | Indie Hacker
 
 ## Contributing
 
