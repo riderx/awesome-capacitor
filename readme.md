@@ -122,7 +122,6 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Native audio](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Native market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
-- [Native Biometric](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
 - [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
 - [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
 - [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
