@@ -210,6 +210,7 @@ Independents plugins are listed here.
 - [Print](https://github.com/leoruhland/capacitor-print) - Print the WebView.
 - [Rate app](https://github.com/Nodonisko/capacitor-rate-app) - Let users rate your app using native rate app dialog for both Android and iOS.
 - [Read sms](https://github.com/Ayush-Rajniwal/cap-read-sms) - Read the user's SMS with their permission.
+- [Safe Area](https://github.com/AlwaysLoveme/capacitor-plugin-safe-area) - Get SafeArea info on Android and IOS
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
 - [Sentry](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
