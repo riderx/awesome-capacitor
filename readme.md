@@ -129,7 +129,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Navigation bar](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 - [Video Player IVS](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 - [Home indicator](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
-- [Naitve Purchases](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
+- [Native Purchases](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 
 ## [Capawesome plugins](https://capawesome.io/)
