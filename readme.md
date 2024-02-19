@@ -223,6 +223,7 @@ Independents plugins are listed here.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 - [Websocket Client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
+- [Bing Translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 
 
 ## Cordova plugins
