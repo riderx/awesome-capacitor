@@ -13,9 +13,8 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
-	
-<h2><a href="https://capgo.app/consulting/"> Hire a Capacitor consultant 💪</a></h2>
+  <h2><a href="https://capgo.app/?ref=awesomelist"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=awesomelist"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
 <br>
 
