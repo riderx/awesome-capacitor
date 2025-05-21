@@ -29,6 +29,6 @@ jobs:
       - name: Awesome linter
         run: npx awesome-lint
       - name: 'restqa-404-links'
-        uses: restqa/404-links@3.1.4
+        uses: restqa/404-links@3.1.6
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
