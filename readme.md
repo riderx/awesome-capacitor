@@ -21,9 +21,6 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 </div>
 <br/>
 
-
-<br>
-
 ## Contents
 
 - [Official plugins](#official-plugins)
