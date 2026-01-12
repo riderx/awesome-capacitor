@@ -1,5 +1,5 @@
 {
 	"dependencies": {
-		"node-html-parser": "^7.0.0"
+		"node-html-parser": "^6.1.4"
 	}
 }
