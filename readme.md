@@ -381,6 +381,7 @@ This list will be upgraded soon
 - [Assets](https://github.com/ionic-team/capacitor-assets) - Local Capacitor icon/splash screen resource generation tool.
 - [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies.
 - [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
+- [lazycap](https://github.com/icarus-itcs/lazycap) - Terminal dashboard for Capacitor development with device management, builds, live reload, debugging, and AI assistant integration via MCP.
 
 ## Learning
 
