@@ -406,7 +406,7 @@ Places to learn about Capacitor
 
 ### Community Tutorials
 
-- [Capacitor Tutorial](https://ionicthemes.com/tutorials/native-cross-platform-web-apps-with-ionic-capacitor) - Getting Started with Capacitor.
+
 - [Adding Icons & Splash Screens to Capacitor](https://www.joshmorony.com/adding-icons-splash-screens-launch-images-to-capacitor-projects/) - Generating the Icon and Splash Screen Asset.
 - [Capacitor Workflow in an Ionic Application](https://www.youtube.com/watch?v=oXbRcpsytGQ) - Cover the basic workflow when using Capacitor in an Ionic application.
 - [Creating a Local Plugin](https://www.joshmorony.com/running-custom-native-ios-code-in-ionic-with-capacitor/) - Running Custom Native iOS Code with Capacitor.
