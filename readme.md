@@ -51,7 +51,7 @@ Official plugins for [Capacitor](https://github.com/ionic-team/capacitor-plugins
 - [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
 - [Dialog](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
-- [File system](https://github.com/ionic-team/capacitor-file-system) - Provides a NodeJS-like API for working with files on the device.
+- [File system](https://github.com/ionic-team/capacitor-filesystem) - Provides a NodeJS-like API for working with files on the device.
 - [Geolocation](https://github.com/ionic-team/capacitor-geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
 - [Haptics](https://github.com/ionic-team/capacitor-haptics) - Provides physical feedback to the user through touch or vibration.
 - [Keyboard](https://github.com/ionic-team/capacitor-keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
