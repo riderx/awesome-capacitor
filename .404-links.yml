@@ -1,0 +1,3 @@
+ignore:
+  files:
+    - pull_request_template.md
