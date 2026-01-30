@@ -54,7 +54,7 @@
 	- ✅ `awesome-web-typography`
 	- ❌ `awesome-Swift`
 	- ❌ `AwesomeWebTypography`
-- The heading title of your list should be in [title case](https://capitalizemytitle.com/) format: `# Awesome Name of List`.
+- The heading title of your list should be in title case format: `# Awesome Name of List`.
 	- ✅ `# Awesome Swift`
 	- ✅ `# Awesome Web Typography`
 	- ❌ `# awesome-swift`
