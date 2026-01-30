@@ -172,7 +172,6 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Autofill Save Password](https://github.com/Cap-go/capacitor-autofill-save-password) - Prompt to save login into device password manager.
 - [Persistent Account](https://github.com/Cap-go/capacitor-persistent-account) - Securely store account information for a user.
 - [Is Root](https://github.com/Cap-go/capacitor-is-root) - Jailbreak/Root Detection Plugin.
-- [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking) - iOS App Tracking Transparency framework integration.
 
 ### UI & Display
 - [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Native in-app browser for secure web content.
