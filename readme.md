@@ -51,10 +51,10 @@ Official plugins for [Capacitor](https://github.com/ionic-team/capacitor-plugins
 - [Clipboard](https://github.com/ionic-team/capacitor-plugins/tree/main/clipboard) - Enables copy and pasting to/from the system clipboard.
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
 - [Dialog](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
-- [File system](https://github.com/ionic-team/capacitor-plugins/tree/main/filesystem) - Provides a NodeJS-like API for working with files on the device.
-- [Geolocation](https://github.com/ionic-team/capacitor-plugins/tree/main/geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
-- [Haptics](https://github.com/ionic-team/capacitor-plugins/tree/main/haptics) - Provides physical feedback to the user through touch or vibration.
-- [Keyboard](https://github.com/ionic-team/capacitor-plugins/tree/main/keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
+- [File system](https://github.com/ionic-team/capacitor-file-system) - Provides a NodeJS-like API for working with files on the device.
+- [Geolocation](https://github.com/ionic-team/capacitor-geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
+- [Haptics](https://github.com/ionic-team/capacitor-haptics) - Provides physical feedback to the user through touch or vibration.
+- [Keyboard](https://github.com/ionic-team/capacitor-keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
 - [Local Notifications](https://github.com/ionic-team/capacitor-plugins/tree/main/local-notifications) - Provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
 - [Motion](https://github.com/ionic-team/capacitor-plugins/tree/main/motion) - Tracks accelerometer and device orientation (compass heading, etc.).
 - [Network](https://github.com/ionic-team/capacitor-plugins/tree/main/network) - Provides network and connectivity information.
@@ -172,7 +172,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Autofill Save Password](https://github.com/Cap-go/capacitor-autofill-save-password) - Prompt to save login into device password manager.
 - [Persistent Account](https://github.com/Cap-go/capacitor-persistent-account) - Securely store account information for a user.
 - [Is Root](https://github.com/Cap-go/capacitor-is-root) - Jailbreak/Root Detection Plugin.
-- [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) - iOS App Tracking Transparency framework integration.
+- [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking) - iOS App Tracking Transparency framework integration.
 
 ### UI & Display
 - [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Native in-app browser for secure web content.
@@ -351,7 +351,7 @@ Independents plugins are listed here.
 ### Compatible
 This list will be upgraded soon
 
-- [NPM search](https://www.npmjs.com/search?q=cordova-plugin%20capacitor)
+- [NPM search](https://www.npmjs.com/search?q=cordova-plugin+capacitor)
 
 ### Incompatible
 
@@ -403,7 +403,7 @@ Places to learn about Capacitor
 
 ### Crash Courses
 
-- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course/) - Learn to use Capacitor with Ionic by Simon Grimm.
+- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course) - Learn to use Capacitor with Ionic by Simon Grimm.
 
 ### Community Tutorials
 
@@ -441,16 +441,14 @@ Places to discuss about Capacitor
 
 - [Discord](https://discord.com/invite/UPYYRhtyzp) - Official Discord community.
 - [Forum](https://forum.ionicframework.com/c/capacitor) - Official Forum community.
-- [Reddit](https://www.reddit.com/r/capacitor) - Official Reddit community.
+- [Reddit](https://reddit.com/r/capacitor) - Official Reddit community.
 - [Stack Overflow](https://stackoverflow.com/tags/capacitor) - Official Stack Overflow community.
 - [Proposal](https://github.com/capacitor-community/proposals) - Official repo for plugin and platform requests.
 
 ## Freelancers
 
-- [Martin Donadieu](https://cal.com/martindonadieu/get-your-custom-capacitor-plugin?duration=30) - Creator of this list and of Capgo live update system + 10 plugins.
-- [Christophe Surbier](https://www.malt.fr/profile/christophesurbier) - Expert developer mobile since 2009 and Capacitor since 2017.
-- [Timothee Porcq](https://www.malt.fr/profile/timotheeporcq) - Expert developer Mobile Ionic/Angular & Capacitor +7 years.
-- [Nicolas Izac](https://www.malt.fr/profile/nicolasizac) - Developper Fullstack | Vue-Angular-Ionic-Laravel +7 years.
+- [Martin Donadieu](https://cal.com/martindonadieu/30min) - Creator of this list and of Capgo live update system + 10 plugins.
+
 
 ## Contributing
 
