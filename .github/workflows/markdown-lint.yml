@@ -20,6 +20,7 @@ jobs:
       - uses: actions/checkout@v6
         with:
           fetch-depth: 0
+      - uses: oven-sh/setup-bun@v2
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           retry-after: 10
@@ -27,7 +28,7 @@ jobs:
           use-verbose-mode: 'yes'
           config-file: '.github/workflows/markdown.links.config.json'
       - name: Awesome linter
-        run: npx awesome-lint
+        run: bunx awesome-lint
       - name: 'restqa-404-links'
         uses: restqa/404-links@3.1.6
         env:
