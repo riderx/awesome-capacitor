@@ -393,6 +393,10 @@ This list will be upgraded soon
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for your app.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association (AASA) configuration.
 
+## Helpers
+
+- [vue-capacitor-haptics](https://https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.
+
 ## Learning
 
 Places to learn about Capacitor
