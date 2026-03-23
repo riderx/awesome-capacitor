@@ -166,6 +166,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Background Geolocation](https://github.com/Cap-go/capacitor-background-geolocation) - Receive accurate geolocation updates even while the app is in the background.
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Launch Navigator](https://github.com/Cap-go/capacitor-launch-navigator) - Launch native route navigation apps for Android and iOS.
+- [MapAtlas](https://mapatlas.eu) - EU-hosted mapping API with geocoding, routing, map tiles, and search. Mapbox GL JS-compatible, GDPR compliant.
 
 ### Authentication & Security
 - [App Attest](https://github.com/Cap-go/capacitor-app-attest) - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
