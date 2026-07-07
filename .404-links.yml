@@ -1,3 +1,7 @@
 ignore:
+  urls:
+    - https://www.npmjs.com/search?q=cordova-plugin+capacitor
+    - https://www.udemy.com/course/capacitor-crash-course/
+    - https://reddit.com/r/capacitor
   files:
     - pull_request_template.md
