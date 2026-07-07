@@ -298,14 +298,6 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [UWB](https://github.com/Cap-go/capacitor-uwb) - Ultra-Wideband ranging on iOS and Android.
 - [Zebra DataWedge](https://github.com/Cap-go/capacitor-zebra-datawedge) - Manage Zebra DataWedge profiles, notifications, queries, and soft scanning.
 
-## Capawesome plugins
-Plugins owned by Capawesome organisation and maintained by @robingenz.
-
-- [Background tasks](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-- [Badge](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
-- [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
-- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
-
 ## [Transistor Software plugins](https://www.transistorsoft.com/)
 Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) and maintained by [@christocracy](https://github.com/christocracy).
 
@@ -321,6 +313,15 @@ Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 - [Dark Mode](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
 - [Logger](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
 - [Secure Storage](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
+
+
+## Capawesome plugins
+Plugins owned by Capawesome organisation and maintained by @robingenz.
+
+- [Background tasks](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
+- [Badge](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
+- [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
+- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
 ## Other plugins
 
