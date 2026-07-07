@@ -121,6 +121,8 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 ### Core & Updates
 - [Updater](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor apps.
 - [Live Reload](https://github.com/Cap-go/capacitor-live-reload) - Reload Capacitor apps from a remote Vite dev server.
+- [Capacitor Patch](https://github.com/Cap-go/capacitor-patch) - Apply vetted Capgo patches during cap sync and cap update.
+- [Capacitor+](https://github.com/Cap-go/capacitor-plus) - Always-synced Capacitor fork with community fixes and faster releases.
 
 ### Device & Sensors
 - [Accelerometer](https://github.com/Cap-go/capacitor-accelerometer) - Read device accelerometer measurements.
@@ -128,9 +130,12 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Barometer](https://github.com/Cap-go/capacitor-barometer) - Access device barometer readings.
 - [Brightness](https://github.com/Cap-go/capacitor-brightness) - Control screen brightness on iOS and Android.
 - [Compass](https://github.com/Cap-go/capacitor-compass) - Native compass heading plugin.
+- [Device Info](https://github.com/Cap-go/capacitor-device-info) - Read CPU, memory, GPU, storage, and onboard sensor metrics.
 - [Light Sensor](https://github.com/Cap-go/capacitor-light-sensor) - Access the device light sensor (Android only).
 - [Mute](https://github.com/Cap-go/capacitor-mute) - Detect if the mute switch is enabled/disabled on a device.
 - [Pedometer](https://github.com/Cap-go/capacitor-pedometer) - Access pedometer data including steps, distance, pace, cadence, and floors.
+- [Persistent UUID](https://github.com/Cap-go/capacitor-persistent-uuid) - Persist an app UUID across reinstalls and updates.
+- [Proximity](https://github.com/Cap-go/capacitor-proximity) - Monitor proximity sensor state in mobile apps.
 - [Shake](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
 - [Volume Buttons](https://github.com/Cap-go/capacitor-volume-buttons) - Listen to volume button presses.
 - [SIM](https://github.com/Cap-go/capacitor-sim) - Get information from device's sim cards.
@@ -145,6 +150,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Video Player](https://github.com/Cap-go/capacitor-video-player) - Play video in native player.
 - [Video Thumbnails](https://github.com/Cap-go/capacitor-video-thumbnails) - Generate video thumbnails from local or remote video files.
 - [Photo Library](https://github.com/Cap-go/capacitor-photo-library) - Display photo gallery as web page or native screen.
+- [Asset Cache](https://github.com/Cap-go/capacitor-asset-cache) - Transparently cache large images and videos locally.
 - [FFmpeg](https://github.com/Cap-go/capacitor-ffmpeg) - Exposes the FFmpeg API to Capacitor.
 - [IVS Player](https://github.com/Cap-go/capacitor-ivs-player) - Amazon IVS player for Capacitor apps.
 - [JW Player](https://github.com/Cap-go/capacitor-jw-player) - Play videos from jwplayer.com.
@@ -158,6 +164,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [File](https://github.com/Cap-go/capacitor-file) - System operations compatible with Cordova File plugin API.
 - [File Picker](https://github.com/Cap-go/capacitor-file-picker) - Pick files, images, videos, and directories.
 - [File Compressor](https://github.com/Cap-go/capacitor-file-compressor) - Efficient image compression supporting PNG, JPEG, and WebP formats.
+- [File Sharer](https://github.com/Cap-go/capacitor-file-sharer) - Share and save files on Android, iOS, and Web.
 - [Downloader](https://github.com/Cap-go/capacitor-downloader) - Download file in background or foreground.
 - [Uploader](https://github.com/Cap-go/capacitor-uploader) - Upload file natively.
 - [Zip](https://github.com/Cap-go/capacitor-zip) - Zipping and unzipping files on iOS, Android, and Web.
@@ -166,13 +173,19 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Background Geolocation](https://github.com/Cap-go/capacitor-background-geolocation) - Receive accurate geolocation updates even while the app is in the background.
 - [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
 - [Launch Navigator](https://github.com/Cap-go/capacitor-launch-navigator) - Launch native route navigation apps for Android and iOS.
+- [Mock Location Detector](https://github.com/Cap-go/capacitor-mock-location-detector) - Detect simulated GPS locations and spoofing developer tools.
 
 ### Authentication & Security
 - [App Attest](https://github.com/Cap-go/capacitor-app-attest) - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
+- [Device Integrity](https://github.com/Cap-go/capacitor-device-integrity) - Check Widevine, Play Integrity, App Attest, and DeviceCheck signals.
 - [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) - Request ATT authorization for tracking on iOS.
 - [Native Biometric](https://github.com/Cap-go/capacitor-native-biometric) - Access native biometric APIs for Android and iOS.
 - [Persona](https://github.com/Cap-go/capacitor-persona) - Launch Persona inquiry flows on iOS and Android.
 - [Social Login](https://github.com/Cap-go/capacitor-social-login) - All social logins in one plugin.
+- [Passkey](https://github.com/Cap-go/capacitor-passkey) - WebAuthn-compatible passkey shim for native apps.
+- [reCAPTCHA](https://github.com/Cap-go/capacitor-recaptcha) - Generate reCAPTCHA and reCAPTCHA Enterprise tokens.
+- [SSL Pinning](https://github.com/Cap-go/capacitor-ssl-pinning) - Pin HTTPS certificates through CapacitorHttp on Android and iOS.
+- [Verisoul](https://github.com/Cap-go/capacitor-verisoul) - Fraud prevention sessions for Capacitor apps.
 - [Autofill Save Password](https://github.com/Cap-go/capacitor-autofill-save-password) - Prompt to save login into device password manager.
 - [Persistent Account](https://github.com/Cap-go/capacitor-persistent-account) - Securely store account information for a user.
 - [Is Root](https://github.com/Cap-go/capacitor-is-root) - Jailbreak/Root Detection Plugin.
@@ -181,24 +194,35 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Native in-app browser for secure web content.
 - [Live Activities](https://github.com/Cap-go/capacitor-live-activities) - Manage iOS Live Activities from Capacitor.
 - [Navigation Bar](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for Android Lollipop and higher.
+- [Native Navigation](https://github.com/Cap-go/capacitor-native-navigation) - Native navbar, tabbar, safe-area handling, and WebView transitions.
 - [Home Indicator](https://github.com/Cap-go/capacitor-home-indicator) - Hide and show home button indicator in Capacitor app.
 - [Screen Orientation](https://github.com/Cap-go/capacitor-screen-orientation) - Control device orientation with support for bypassing orientation lock.
 - [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
 - [Keep Awake](https://github.com/Cap-go/capacitor-keep-awake) - Prevent the device screen from dimming or sleeping.
 - [Text Interaction](https://github.com/Cap-go/capacitor-textinteraction) - Toggle text interaction in Capacitor based iOS apps.
 - [Transitions](https://github.com/Cap-go/capacitor-transitions) - Framework-agnostic page transitions for Capacitor apps - iOS-style navigation.
+- [Native Loader](https://github.com/Cap-go/capacitor-native-loader) - Native animated loaders, transparent overlays, Lottie assets, and WebView resizing.
+- [Pretty Toast](https://github.com/Cap-go/capacitor-pretty-toast) - Native-first toast notifications for Capacitor and the web.
+- [Privacy Screen](https://github.com/Cap-go/capacitor-privacy-screen) - Hide app content in screenshots and app switcher previews.
+- [Date Picker](https://github.com/Cap-go/capacitor-date-picker) - Native date, time, date-time, year-month, and range pickers.
 - [Printer](https://github.com/Cap-go/capacitor-printer) - Print documents, HTML, PDFs, images and web views.
 - [PDF Generator](https://github.com/Cap-go/capacitor-pdf-generator) - Generate PDF files from HTML strings or URLs.
+- [Sheets](https://github.com/Cap-go/capacitor-sheets) - Framework-agnostic sheets, drawers, dialogs, and overlay primitives.
 
 ### Purchases & Payments
 - [Native Purchases](https://github.com/Cap-go/capacitor-native-purchases) - In-app Subscriptions Made Easy.
 - [Pay](https://github.com/Cap-go/capacitor-pay) - Trigger native payment for iOS (Apple Pay) and Android (Google Pay).
+- [Stripe Identity](https://github.com/Cap-go/capacitor-stripe-identity) - Verify identities with Stripe Identity.
+- [Stripe Pay](https://github.com/Cap-go/capacitor-stripe-pay) - Payment Sheet, Apple Pay, and Google Pay for Stripe.
+- [Stripe Terminal](https://github.com/Cap-go/capacitor-stripe-terminal) - In-person Stripe Terminal payments.
 
 ### Communication & Messaging
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - Native SDK for customer messaging and chat support.
+- [Incoming Call Kit](https://github.com/Cap-go/capacitor-incoming-call-kit) - Native incoming call UI with Android full-screen notifications and iOS CallKit.
 - [Intercom](https://github.com/Cap-go/capacitor-intercom) - Customer messaging SDK integration for Capacitor apps.
 - [NFC](https://github.com/Cap-go/capacitor-nfc) - Native NFC tag discovery, reading and writing for iOS and Android.
 - [Bluetooth Low Energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
+- [MQTT](https://github.com/Cap-go/capacitor-mqtt) - Connect to MQTT brokers on Android and iOS.
 - [WiFi](https://github.com/Cap-go/capacitor-wifi) - Manage WiFi connectivity for your Capacitor app.
 - [iBeacon](https://github.com/Cap-go/capacitor-ibeacon) - Proximity detection and beacon region monitoring.
 - [Speech Recognition](https://github.com/Cap-go/capacitor-speech-recognition) - Comprehensive on-device speech recognition with live partial results.
@@ -211,11 +235,17 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Analytics & Tracking
 - [AdMob](https://github.com/Cap-go/capacitor-admob) - Bridge AdMob SDKs for iOS and Android.
+- [AppsFlyer](https://github.com/Cap-go/capacitor-appsflyer) - Attribution, analytics, and deep links for AppsFlyer.
 - [GTM](https://github.com/Cap-go/capacitor-gtm) - Google Tag Manager plugin for Capacitor.
 - [App Insights](https://github.com/Cap-go/capacitor-appinsights) - A wrapper around the Apptopia App Insights SDK.
+- [Contentsquare](https://github.com/Cap-go/capacitor-contentsquare) - Mobile analytics SDK integration for Capacitor apps.
+- [Facebook Analytics](https://github.com/Cap-go/capacitor-facebook-analytics) - Meta/Facebook App Events analytics for Capacitor apps.
+- [Install Referrer](https://github.com/Cap-go/capacitor-install-referrer) - Attribution via Google Play Install Referrer and Apple AdServices.
+- [RudderStack](https://github.com/Cap-go/capacitor-rudderstack) - Analytics, identity, and event tracking for RudderStack.
 
 ### Contacts & Health
 - [Contacts](https://github.com/Cap-go/capacitor-contacts) - Work with device contacts using Capacitor APIs.
+- [Calendar](https://github.com/Cap-go/capacitor-calendar) - Manage calendar events on iOS and Android.
 - [Health](https://github.com/Cap-go/capacitor-health) - Interact with data from Apple HealthKit and Health Connect.
 
 ### App Store & Market
@@ -227,13 +257,17 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Android Age Signals](https://github.com/Cap-go/capacitor-android-age-signals) - Exposes Google Play Age Signals to your app.
 - [Android Inline Install](https://github.com/Cap-go/capacitor-android-inline-install) - Trigger Android inline install feature.
 - [Android Kiosk](https://github.com/Cap-go/capacitor-android-kiosk) - Lock device into kiosk mode with launcher functionality.
+- [Android SMS Retriever](https://github.com/Cap-go/capacitor-android-sms-retriever) - SMS Retriever and Phone Number Hint APIs on Android.
 - [Intent Launcher](https://github.com/Cap-go/capacitor-intent-launcher) - Launch Android intents and open system settings screens on Android and iOS.
 
 ### Platform Integrations
 - [Supabase](https://github.com/Cap-go/capacitor-supabase) - Native Supabase SDK integration - Auth, Database, and JWT access.
+- [Auto](https://github.com/Cap-go/capacitor-auto) - CarPlay and Android Auto communication.
+- [Intune](https://github.com/Cap-go/capacitor-intune) - Microsoft Intune MAM enrollment, app protection policies, app config, and MSAL authentication.
 - [WeChat](https://github.com/Cap-go/capacitor-wechat) - SDK for authentication, sharing, payments, and mini-programs.
 - [Watch](https://github.com/Cap-go/capacitor-watch) - Apple Watch communication with bidirectional messaging support.
 - [Share Target](https://github.com/Cap-go/capacitor-share-target) - Receive shared content from other apps.
+- [Widget Kit](https://github.com/Cap-go/capacitor-widget-kit) - Build iOS widgets, Live Activities, and shared App Group integrations.
 
 ### Firebase
 - [Analytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase Analytics for Capacitor.
@@ -250,14 +284,18 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Utilities
 - [Alarm](https://github.com/Cap-go/capacitor-alarm) - Manage native alarms.
+- [Background Task](https://github.com/Cap-go/capacitor-background-task) - Periodic background fetch tasks on iOS and Android.
 - [Env](https://github.com/Cap-go/capacitor-env) - Set Env var in Capacitor config and read them at runtime.
+- [Network Diagnostics](https://github.com/Cap-go/capacitor-network-diagnostics) - Run native network diagnostics from Capacitor.
+- [WebView Crash](https://github.com/Cap-go/capacitor-webview-crash) - Detect recovered WebView crashes.
 - [WebView Guardian](https://github.com/Cap-go/capacitor-webview-guardian) - Detect when the WebView was killed in the background and relaunch it on foreground.
 - [WebView Version Checker](https://github.com/Cap-go/capacitor-webview-version-checker) - Check Android WebView version and prompt users to update when needed.
 - [LLM](https://github.com/Cap-go/capacitor-llm) - Adds support for LLM locally run for Capacitor.
 
 ### Specialized Hardware
 - [Ricoh360 Camera](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin) - SDK for the Ricoh360 cameras.
-
+- [UWB](https://github.com/Cap-go/capacitor-uwb) - Ultra-Wideband ranging on iOS and Android.
+- [Zebra DataWedge](https://github.com/Cap-go/capacitor-zebra-datawedge) - Manage Zebra DataWedge profiles, notifications, queries, and soft scanning.
 
 ## Capawesome plugins
 Plugins owned by Capawesome organisation and maintained by @robingenz.
