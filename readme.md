@@ -456,8 +456,9 @@ Places to discuss about Capacitor
 
 ## Freelancers
 
-- [Martin Donadieu](https://cal.com/martindonadieu) - Creator of this list and of Capgo live update system + 10 plugins.
-
+- [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart the best boilerplate for Capacitor and Capgo part-time developper.
+- [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
+- [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
 
 ## Contributing
 
