@@ -12,12 +12,12 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <br/>
 </div>
 <p align='center'>
-  <img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/>
+  <img src='https://capgo.app/readme-banner.svg?repo=riderx/awesome-capacitor' alt='Capgo - Instant updates for capacitor'/>
 </p>
 <br/>
 <div align="center">
-  <h2><a href="https://capgo.app/?ref=plugin"> ➡️ Get Instant updates for your App with Capgo </a></h2>
-  <h2><a href="https://capgo.app/consulting/?ref=plugin"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
+  <h2><a href="https://capgo.app/?ref=awesome-capacitor"> ➡️ Get Instant updates for your App with Capgo </a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=awesome-capacitor"> Missing a feature? We’ll build the plugin for you 💪</a></h2>
 </div>
 <br/>
 
