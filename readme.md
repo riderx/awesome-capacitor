@@ -196,7 +196,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Communication & Messaging
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - Native SDK for customer messaging and chat support.
-- [Intercom](https://github.com/Cap-go/capacitor-intercom) - Intercom SDK integration for Capacitor apps.
+- [Intercom](https://github.com/Cap-go/capacitor-intercom) - Customer messaging SDK integration for Capacitor apps.
 - [NFC](https://github.com/Cap-go/capacitor-nfc) - Native NFC tag discovery, reading and writing for iOS and Android.
 - [Bluetooth Low Energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
 - [WiFi](https://github.com/Cap-go/capacitor-wifi) - Manage WiFi connectivity for your Capacitor app.
@@ -238,7 +238,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 ### Firebase
 - [Analytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/analytics/README.md) - Firebase Analytics for Capacitor.
 - [App](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app/README.md) - Firebase App for Capacitor.
-- [App Check](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/app-check/README.md) - Firebase App Check for Capacitor.
+- [App Check](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/appcheck/README.md) - Firebase App Check for Capacitor.
 - [Authentication](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/authentication/README.md) - Firebase Authentication for Capacitor.
 - [Crashlytics](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/crashlytics/README.md) - Firebase Crashlytics for Capacitor.
 - [Firestore](https://github.com/Cap-go/capacitor-firebase/blob/main/packages/firestore/README.md) - Firebase Cloud Firestore for Capacitor.
@@ -267,7 +267,7 @@ Plugins owned by Capawesome organisation and maintained by @robingenz.
 - [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
 - [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
 
-## [Transistor Software plugins](https://www.transistorsoft.com//)
+## [Transistor Software plugins](https://www.transistorsoft.com/)
 Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft) and maintained by [@christocracy](https://github.com/christocracy).
 
 - [Background Geolocation](https://github.com/transistorsoft/capacitor-background-geolocation) - The most sophisticated background location-tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
@@ -275,7 +275,7 @@ Plugins owned by [Transistor Software plugins](https://github.com/transistorsoft
 - [Background Geolocation Firebase](https://github.com/transistorsoft/capacitor-background-geolocation-firebase) - Firebase adapter for Capacitor Background Geolocation.
 
 
-## [Aparajita plugins](https://github.com/aparajita?tab=repositories&q=capacitor)
+## Aparajita plugins
 Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 
 - [Biometric Auth](https://github.com/aparajita/capacitor-biometric-auth) - Easy access to native biometric auth APIs on iOS and Android.
@@ -316,7 +316,6 @@ Independents plugins are listed here.
     - [MlKit Language](https://github.com/hemangsk/capacitor-mlkit-language) - Identify the language of a string of text.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 - [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
-- [Intent](https://github.com/IT-MikeS/capacitor-intents) - Supports multiple broadcast receiving of intents, and sending out BroadcastIntents in Android.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Native Audio Player](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
@@ -413,7 +412,7 @@ Places to learn about Capacitor
 
 ### Crash Courses
 
-- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course) - Learn to use Capacitor with Ionic by Simon Grimm.
+- [Capacitor Crash Course](https://www.udemy.com/course/capacitor-crash-course/) - Learn to use Capacitor with Ionic by Simon Grimm.
 
 ### Community Tutorials
 
@@ -457,7 +456,7 @@ Places to discuss about Capacitor
 
 ## Freelancers
 
-- [Martin Donadieu](https://cal.com/martindonadieu/30min) - Creator of this list and of Capgo live update system + 10 plugins.
+- [Martin Donadieu](https://cal.com/martindonadieu) - Creator of this list and of Capgo live update system + 10 plugins.
 
 
 ## Contributing
