@@ -327,7 +327,7 @@ Plugins owned by Capawesome organisation and maintained by @robingenz.
 
 Independents plugins are listed here.
 
-- [smartconfig-plugin](https://github.com) - Standalone native Espressif SmartConfig provisioning plugin.
+- [smartconfig-plugin](https://github.com/NareshKumarSuruvu/smartconfig-plugin) - Standalone native Espressif SmartConfig provisioning plugin.
 
 - [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
