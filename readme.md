@@ -23,22 +23,35 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 
 ## Contents
 
+- [Official](#official)
 - [Official plugins](#official-plugins)
 - [Community plugins](#community-plugins)
 - [Capgo plugins](#capgo-plugins)
 - [Transistor Software plugins](#transistor-software-plugins)
 - [Aparajita plugins](#aparajita-plugins)
-- [Capawesome plugins](#capawesome-plugins)
 - [Other plugins](#other-plugins)
-- [Cordova plugins](#cordova-plugins) 
+- [Cordova plugins](#cordova-plugins)
 - [Tools](#tools)
 - [Helpers](#helpers)
 - [Learning](#learning)
+- [Convert a web app](#convert-a-web-app)
+- [Videos](#videos)
 - [Demo apps](#demo-apps)
+- [Apps built with Capacitor](#apps-built-with-capacitor)
+- [Related lists](#related-lists)
 - [Community](#community)
 - [Freelancers](#freelancers)
 - [Author](#author)
 
+
+## Official
+
+- [Website](https://capacitorjs.com/) - Project homepage.
+- [Documentation](https://capacitorjs.com/docs) - Official docs.
+- [CLI](https://capacitorjs.com/docs/cli) - Command-line reference.
+- [Community](https://capacitorjs.com/community) - Official community hub.
+- [Blog](https://ionic.io/blog/tag/capacitor) - Official blog posts.
+- [Repository](https://github.com/ionic-team/capacitor) - Core runtime source.
 
 ## Official plugins
 
@@ -53,6 +66,8 @@ Official plugins for [Capacitor](https://github.com/ionic-team/capacitor-plugins
 - [Device](https://github.com/ionic-team/capacitor-plugins/tree/main/device) - Exposes internal information about the device, such as the model and operating system version, along with user information such as unique IDs.
 - [Dialog](https://github.com/ionic-team/capacitor-plugins/tree/main/dialog) - Provides methods for triggering native dialog windows for alerts, confirmations, and input prompts.
 - [File system](https://github.com/ionic-team/capacitor-filesystem) - Provides a NodeJS-like API for working with files on the device.
+- [File Transfer](https://github.com/ionic-team/capacitor-file-transfer) - Provides mechanisms for downloading and uploading files.
+- [File Viewer](https://github.com/ionic-team/capacitor-file-viewer) - Provides mechanisms for opening files and previewing media.
 - [Geolocation](https://github.com/ionic-team/capacitor-geolocation) - Provides simple methods for getting and tracking the current position of the device using GPS, along with altitude, heading, and speed information if available.
 - [Haptics](https://github.com/ionic-team/capacitor-haptics) - Provides physical feedback to the user through touch or vibration.
 - [Keyboard](https://github.com/ionic-team/capacitor-keyboard) - Provides keyboard display and visibility control, along with event tracking when the keyboard shows and hides.
@@ -106,6 +121,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 - [Privacy screen](https://github.com/capacitor-community/privacy-screen) - Protects your app from displaying a screenshot in recents screen/App Switcher.
 - [React hooks](https://github.com/capacitor-community/react-hooks) - Hooks for using Capacitor plugins in React apps.
 - [Realm](https://github.com/capacitor-community/realm) - A native plugin for MongoDB Realm.
+- [Safe Area](https://github.com/capacitor-community/safe-area) - Expose native safe area insets to your web project.
 - [Screen brightness](https://github.com/capacitor-community/screen-brightness) - Control screen brightness on iOS and android.
 - [Speech recognition](https://github.com/capacitor-community/speech-recognition) - A native plugin for speech recognition.
 - [SQLite](https://github.com/capacitor-community/sqlite) - Native & electron SQLite databases.
@@ -122,8 +138,12 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 ### Core & Updates
 - [Updater](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor apps.
 - [Live Reload](https://github.com/Cap-go/capacitor-live-reload) - Reload Capacitor apps from a remote Vite dev server.
+- [Electron Updater](https://github.com/Cap-go/electron-updater) - OTA live updates for Electron apps with the same API as the updater plugin.
+- [Cordova Updater](https://github.com/Cap-go/cordova-updater) - OTA live updates for Cordova iOS and Android with the same API as the updater plugin.
+- [Tauri Updater](https://github.com/Cap-go/tauri-updater) - OTA live updates for Tauri apps.
 - [Capacitor Patch](https://github.com/Cap-go/capacitor-patch) - Apply vetted Capgo patches during cap sync and cap update.
 - [Capacitor+](https://github.com/Cap-go/capacitor-plus) - Always-synced Capacitor fork with community fixes and faster releases.
+- [Notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) - Send native iOS and Android push notifications with user lookup, badges, and stats.
 
 ### Device & Sensors
 - [Accelerometer](https://github.com/Cap-go/capacitor-accelerometer) - Read device accelerometer measurements.
@@ -233,6 +253,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Stream Call](https://github.com/Cap-go/capacitor-streamcall) - Uses the getstream.io SDK to implement calling in Capacitor.
 - [RealtimeKit](https://github.com/Cap-go/capacitor-realtimekit) - Cloudflare Calls integration for Capacitor apps with built-in UI for meetings.
 - [Twilio Voice](https://github.com/Cap-go/capacitor-twilio-voice) - Integrates the Twilio Voice SDK into Capacitor.
+- [Twilio Video](https://capgo.app/plugins/capacitor-twilio-video/) - Join Twilio Video rooms with native audio, camera, and room lifecycle events.
 
 ### Analytics & Tracking
 - [AdMob](https://github.com/Cap-go/capacitor-admob) - Bridge AdMob SDKs for iOS and Android.
@@ -313,15 +334,7 @@ Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 - [Dark Mode](https://github.com/aparajita/capacitor-dark-mode) - Universal, reliable dark mode support on the web, iOS and Android.
 - [Logger](https://github.com/aparajita/capacitor-logger) - Better logging for the web and native Ionic/Capacitor apps.
 - [Secure Storage](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
-
-
-## Capawesome plugins
-Plugins owned by Capawesome organisation and maintained by @robingenz.
-
-- [Background tasks](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.
-- [Badge](https://github.com/capawesome-team/capacitor-badge) - Access and update the badge number of the app icon.
-- [Managed configuration](https://github.com/capawesome-team/capacitor-managed-configurations) - Capacitor plugin to access managed configuration settings.
-- [Photo editor](https://github.com/capawesome-team/capacitor-photo-editor) - Capacitor plugin that allows the user to edit a photo.
+- [Silent Notifications](https://github.com/aparajita/capacitor-ios-silent-notifications) - Silent (remote) notification support on iOS.
 
 ## Other plugins
 
@@ -434,16 +447,26 @@ This list will be upgraded soon
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for your app.
 - [Capstart](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association (AASA) configuration.
+- [CLI](https://github.com/Cap-go/CLI) - Upload and manage live update bundles and native cloud builds.
+- [Live Update Action](https://github.com/Cap-go/live-update-action) - GitHub Action to deploy a live update.
+- [Docker](https://github.com/Cap-go/docker-capacitor) - Image for building native apps.
+- [Native Builds](https://capgo.app/native-build/) - Compile and sign iOS and Android binaries in the cloud.
+- [Android Keystore Generator](https://capgo.app/tools/android-keystore-generator/) - Generate Android keystores for app signing in the browser.
+- [iOS Certificate Generator](https://capgo.app/tools/ios-certificate-generator/) - Generate iOS signing certificates in the browser.
+- [iOS UDID Finder](https://capgo.app/tools/ios-udid-finder/) - Find the UDID of an iPhone or iPad.
+- [Vite plugin](https://github.com/Cap-go/vite-capacitor) - Keep native platform configs in sync with the Vite dev server URL.
+- [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
+- [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
 
 ## Helpers
 
-- [vue-capacitor-haptics](https://https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.
+- [vue-capacitor-haptics](https://github.com/benoitlahoz/vue-capacitor-haptics) - A Vue 3 wrapper for the Capacitor Haptics plugin (composable + directive), providing an easy-to-use interface for adding haptic feedback to Ionic-Vue applications.
 
 ## Learning
 
 Places to learn about Capacitor
 
-### Offical guides 
+### Official guides
 
 - [How Capacitor Works](https://capacitorjs.com/blog/how-capacitor-works) - Capacitor takes a modern web app, and then packages it up to run on iOS, Android, and PWA.
 - [Creating Plugins](https://capacitorjs.com/docs/plugins/creating-plugins) - This guide will help you get started creating a shareable Capacitor plugin which will be published on npm.
@@ -472,7 +495,12 @@ Places to learn about Capacitor
 - [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in just a few simple steps.
 - [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - Set up Capacitor-updater into your app to seamless releases update to your users.
 - [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create your own CI/CD pipeline with GitHub Actions for free, to deploy your app every time you push to main.
-- [The Push Notifications Guide for Capacitor](https://capawesome.io/blog/the-push-notifications-guide-for-capacitor/)
+- [The Push Notifications Guide](https://capgo.app/blog/ionic-capacitor-push-notifications-firebase/) - Integrate push notifications with Firebase on iOS and Android.
+- [OAuth2 in 5 steps](https://capgo.app/blog/5-steps-to-implement-oauth2-in-capacitor-apps/) - Implement OAuth 2.0 with PKCE across iOS, Android, and the web.
+- [Social Login](https://capgo.app/blog/capacitor-social-login-release/) - Google, Apple, and Facebook sign-in with native flows.
+- [Secure token storage](https://capgo.app/blog/secure-token-storage-best-practices-for-mobile-developers/) - Store credentials and session tokens safely on device.
+- [CI/CD pipeline setup](https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide/) - Automate build, test, and live update deployment.
+- [OTA updates in CI/CD](https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide/) - Ship over-the-air updates from your pipeline.
 
 ### Books
 
@@ -484,12 +512,55 @@ Places to learn about Capacitor
 - [Capacitor vs Cordova](https://ionic.io/resources/articles/capacitor-vs-cordova-modern-hybrid-app-development) - This guide provides an overview of Capacitor and how it stacks up against Cordova.
 - [Native React Apps Without React Native](https://capacitorjs.com/blog/native-react-apps-without-react-native) - React Native is not a web environment, so it's not possible for teams to take their web-based React to deploy native apps, with Capacitor they can.
 
+## Convert a web app
+
+Tutorials that cover the path from an existing web app to a published mobile app.
+
+- [Transform a PWA into a native app](https://capgo.app/blog/transform-pwa-to-native-app-with-capacitor/) - Package a Progressive Web App for iOS and Android.
+- [Turn a web app into a mobile app](https://capgo.app/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/) - What it takes to wrap a web app and pass store review.
+- [Convert a Lovable app to iOS and Android](https://capgo.app/blog/transform-lovable-dev-app-to-mobile-with-capacitor/) - Export from Lovable, wrap with Capacitor, and ship signed binaries.
+- [Build iOS apps from Windows](https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build/) - Compile, sign, and submit to TestFlight without a Mac.
+
+## Videos
+
+- [Ionic & Capacitor for Building Native Mobile Apps](https://www.youtube.com/watch?v=K7ghUiXLef8) - Full beginner course by freeCodeCamp.
+- [From React Web to Native Mobile App](https://www.youtube.com/watch?v=IwHt_QpIa8A) - Simon Grimm.
+- [How to Build a Native App from Angular Projects](https://www.youtube.com/watch?v=V2Wn2JROUEo) - Simon Grimm.
+- [Building a Native Mobile App with Next.js](https://www.youtube.com/watch?v=xQKtDgJXrlM) - Simon Grimm.
+- [How To Create A Mobile App Using Vite, Vue and Ionic](https://www.youtube.com/watch?v=K_OwSHPxT-A) - Aaron Saunders.
+- [Build a Mobile App Fast! React + Tailwind](https://www.youtube.com/watch?v=PPXktTJXMPE) - Aaron Saunders.
+- [Building Modern Angular Apps with Ionic](https://www.youtube.com/watch?v=tbrJJkSYQ04) - Simon Grimm.
+- [How to Setup Deep Links (iOS & Android)](https://www.youtube.com/watch?v=tAQwllZSQD8) - Simon Grimm.
+- [How to Create Background Tasks](https://www.youtube.com/watch?v=SMW1FQz3Yrc) - Simon Grimm.
+- [The Ionic Image Guide (Capture, Store & Upload)](https://www.youtube.com/watch?v=fU8uM5oU1wY) - Simon Grimm.
+- [Cross-Platform Development with Mike Hartington](https://www.youtube.com/watch?v=73YWZ1G_DX4) - This Dot Media.
+
 ## Demo apps
 
 - [capacitor-testapp](https://github.com/ionic-team/capacitor-testapp) - The Capacitor TestApp is used to develop new features and verify bug fixes in Capacitor and the official plugins.
-- [capacitor-plugin-demo](https://github.com/robingenz/capacitor-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor plugins.
-- [capacitor-firebase-plugin-demo](https://github.com/robingenz/capacitor-firebase-plugin-demo) - Simple Ionic Angular app to demonstrate the use of certain Capacitor Firebase plugins.
 - [capacitor-updater-plugin-demo](https://github.com/Cap-go/demo-app) - Simple Ionic Vue app to demonstrate the use of OTA updates.
+- [vue-data-storage-sqlite-app-starter](https://github.com/Cap-go/vue-data-storage-sqlite-app-starter) - Vue starter for SQLite key/value storage.
+- [react-data-storage-sqlite-app-starter](https://github.com/Cap-go/react-data-storage-sqlite-app-starter) - React starter for SQLite key/value storage.
+
+## Apps built with Capacitor
+
+Production apps whose use of Capacitor is publicly documented.
+
+- [AAA](https://ionic.io/resources/case-studies/american-automobile-association) - Member services app of the American Automobile Association.
+- [BBC Games](https://ionic.io/resources/case-studies/bbc-games) - Children's games from the BBC, shipped as PWAs wrapped with Capacitor.
+- [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform that wrapped its existing web app for iOS and Android.
+- [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova.
+- [Found](https://found.com/engineering/migrating-from-cordova-to-capacitor) - Banking app for small businesses, with an engineering write-up of its Cordova migration.
+- [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals.
+- [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H&R Block.
+- [Spreekuur.nl](https://ionic.io/resources/case-studies/topicus) - Dutch healthcare consultation app by Topicus.
+- [YesHelp](https://ionic.io/resources/case-studies/yeshelp) - Social assistance app for iOS and Android.
+- [Ionic case studies](https://ionic.io/resources/case-studies) - More case studies published by the Ionic team.
+
+## Related lists
+
+- [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) - Curated list of Ionic resources.
+- [Cap-go/awesome-ionic](https://github.com/Cap-go/awesome-ionic) - Curated list of Ionic Framework resources.
 
 ## Community
 
