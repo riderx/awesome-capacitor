@@ -340,6 +340,7 @@ Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 
 Independents plugins are listed here.
 
+- [Apple Maps](https://github.com/katamaengineering/capacitor-plugin-apple-maps) - Native MapKit maps with markers, overlays, clustering, and camera controls. iOS only.
 - [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 
