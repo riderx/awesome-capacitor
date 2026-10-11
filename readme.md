@@ -362,6 +362,7 @@ Independents plugins are listed here.
     - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     - [Push](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
+- [Fully Drawn](https://github.com/byVik/capacitor-plugins/tree/main/packages/fully-drawn) - Reports time to full display to Android vitals with reportFullyDrawn.
 - Google
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     - [Availability](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
