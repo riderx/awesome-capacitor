@@ -393,6 +393,7 @@ Independents plugins are listed here.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - Mobile SDK for card payment processing.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
+- [UMP Consent](https://github.com/byVik/capacitor-plugins/tree/main/packages/ump-consent) - Google UMP consent form with Consent Mode v2 mapping, no AdMob plugin required.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on iOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Authentication plugin for Vietnamese social network.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
