@@ -29,6 +29,7 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 - [Capgo plugins](#capgo-plugins)
 - [Transistor Software plugins](#transistor-software-plugins)
 - [Aparajita plugins](#aparajita-plugins)
+- [Capawesome plugins](#capawesome-plugins)
 - [Other plugins](#other-plugins)
 - [Cordova plugins](#cordova-plugins)
 - [Tools](#tools)
@@ -336,6 +337,184 @@ Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 - [Secure Storage](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 - [Silent Notifications](https://github.com/aparajita/capacitor-ios-silent-notifications) - Silent (remote) notification support on iOS.
 
+## [Capawesome plugins](https://capawesome.io/)
+Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) and maintained by [@capawesome-team](https://github.com/capawesome-team) and community members.
+
+### Plugins
+- [Accessibility Preferences](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/accessibility-preferences) - Read the user's system accessibility preferences.
+- [Action Sheet](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/action-sheet) - Show native action sheets.
+- [Age Signals](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/age-signals) - Retrieve age-related signals via the Play Age Signals API and the Declared Age Range framework.
+- [Alarm](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/alarm) - Create system alarms and timers.
+- [Android Battery Optimization](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/android-battery-optimization) - Access battery optimization settings on Android.
+- [Android Dark Mode Support](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/android-dark-mode-support) - Support dark mode on Android.
+- [Android Edge-to-Edge Support](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/android-edge-to-edge-support) - Support edge-to-edge display on Android.
+- [Android Foreground Service](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/android-foreground-service) - Run a foreground service on Android.
+- [Android Intent Launcher](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/android-intent-launcher) - Launch arbitrary Android intents.
+- [Android SMS Retriever](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/android-sms-retriever) - OTP autofill on Android via the SMS User Consent and Phone Number Hint APIs.
+- [App Icon](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-icon) - Change the app icon at runtime.
+- [App Integrity](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-integrity) - Verify app and device integrity with Play Integrity and App Attest.
+- [App Language](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-language) - Manage the per-app language override.
+- [App Launcher](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-launcher) - Check if an app can be opened and open it.
+- [App Review](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-review) - Let users submit app store reviews and ratings.
+- [App Shortcuts](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-shortcuts) - Manage app shortcuts and quick actions.
+- [App Tracking Transparency](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-tracking-transparency) - Request tracking authorization via the App Tracking Transparency framework on iOS.
+- [App Update](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/app-update) - Check for and install native app updates from the App Store and Google Play.
+- [Apple Sign-In](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/apple-sign-in) - Sign in with Apple.
+- [Asset Manager](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/asset-manager) - Access native asset files.
+- [Audio Session](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/audio-session) - Configure and observe the iOS audio session.
+- [Background Task](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/background-task) - Run background tasks on iOS.
+- [Badge](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/badge) - Read and update the app icon badge number.
+- [Battery](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/battery) - Access battery information.
+- [Clipboard](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/clipboard) - Read from and write to the system clipboard.
+- [Cloudinary](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/cloudinary) - Unofficial Cloudinary integration.
+- [Compass](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/compass) - Read the device compass heading.
+- [Crisp](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/crisp) - Unofficial Crisp chat integration.
+- [Datetime Picker](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/datetime-picker) - Native date and time picker.
+- [Device Info](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/device-info) - Read device information.
+- [Dialog](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/dialog) - Native alert, confirm and prompt dialogs.
+- [Exif](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/exif) - Read, write and remove EXIF metadata from images.
+- [Facebook Sign-In](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/facebook-sign-in) - Sign in with Facebook.
+- [File Opener](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/file-opener) - Open a file with the default application.
+- [File Picker](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/file-picker) - Select files, directories, images or videos.
+- [Flic](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/flic) - Unofficial integration for Flic smart buttons.
+- [Formbricks](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/formbricks) - Unofficial Formbricks integration for in-app surveys.
+- [Google Play Services](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/google-play-services) - Check the availability of Google Play Services and prompt users to install or update it.
+- [Google Sign-In](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/google-sign-in) - Sign in with Google.
+- [Grafana Faro](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/grafana-faro) - Unofficial Grafana Faro integration for frontend observability.
+- [Gyroscope](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/gyroscope) - Read the device gyroscope.
+- [Haptics](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/haptics) - Haptic feedback including impacts, notifications, vibrations and custom patterns.
+- [Home Indicator](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/home-indicator) - Hide and show the iOS home indicator.
+- [In-App Browser](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/in-app-browser) - Open URLs in the external browser, the system browser or an embedded web view.
+- [Install Referrer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/install-referrer) - Read install attribution data.
+- [Intercom](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/intercom) - Unofficial Intercom integration.
+- [Intune](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/intune) - Unofficial Microsoft Intune app protection policies (MAM) integration.
+- [Keep Awake](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/keep-awake) - Keep the screen awake.
+- [libSQL](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/libsql) - Access libSQL databases.
+- [Light Sensor](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/light-sensor) - Read the ambient light sensor on Android.
+- [Live Update](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/live-update) - Update the web assets of your app over the air in real time.
+- [Localization](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/localization) - Read the user's localization preferences.
+- [Mail Composer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/mail-composer) - Open the native email composer.
+- [Managed Configurations](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/managed-configurations) - Access managed app configuration settings from an MDM.
+- [MapLibre](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/maplibre) - Native maps with MapLibre.
+- [Maps Launcher](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/maps-launcher) - Launch navigation apps with turn-by-turn directions.
+- [Navigation Bar](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/navigation-bar) - Set the background color and button style of the Android navigation bar.
+- [Network](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/network) - Access network information.
+- [Node.js](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/nodejs) - Run Node.js in mobile apps.
+- [Option Picker](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/option-picker) - Pick an option from a list using a native picker.
+- [Passkeys](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/passkeys) - Create and authenticate with passkeys (WebAuthn).
+- [Password Autofill](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/password-autofill) - Save passwords to the platform credential store.
+- [PDF Annotator](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/pdf-annotator) - Annotate PDF documents in a native viewer.
+- [PDF Generator](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/pdf-generator) - Generate PDF files from HTML content or URLs.
+- [PDF Viewer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/pdf-viewer) - Display PDF documents in a native viewer.
+- [Permissions](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/permissions) - Check and request device permissions with a unified API.
+- [Phone Dialer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/phone-dialer) - Open the native phone dialer.
+- [Photo Editor](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/photo-editor) - Let the user edit a photo on Android.
+- [Photo Manipulator](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/photo-manipulator) - Crop, resize, rotate, flip and convert images, including HEIC to JPEG.
+- [PixLive](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/pixlive) - Unofficial PixLive SDK integration.
+- [PostHog](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/posthog) - Unofficial PostHog integration for product analytics.
+- [Privacy Screen](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/privacy-screen) - Hide sensitive app content and detect screenshots.
+- [Proximity Sensor](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/proximity-sensor) - Read the proximity sensor.
+- [RealtimeKit](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/realtimekit) - Unofficial RealtimeKit SDK integration for real-time audio and video.
+- [Root Detection](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/root-detection) - Detect rooted and jailbroken devices.
+- [Screen Brightness](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/screen-brightness) - Read and control the screen brightness.
+- [Screen Orientation](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/screen-orientation) - Lock and unlock the screen orientation.
+- [Screen Reader](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/screen-reader) - Interact with screen readers.
+- [Screenshot](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/screenshot) - Take screenshots.
+- [Settings Launcher](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/settings-launcher) - Open native settings screens.
+- [Shake](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/shake) - Detect shake gestures.
+- [Silent Mode](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/silent-mode) - Detect whether the device is in silent mode.
+- [SIM](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/sim) - Read SIM card and carrier information on Android.
+- [Singular](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/singular) - Unofficial Singular Mobile SDK integration.
+- [SMS Composer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/sms-composer) - Open the native SMS composer.
+- [Square Mobile Payments](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/square-mobile-payments) - Unofficial Square Mobile Payments SDK integration for in-person payments.
+- [Superwall](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/superwall) - Unofficial Superwall SDK integration for paywalls.
+- [System WebView](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/system-webview) - Detect an outdated Android System WebView and prompt users to update it.
+- [Text Interaction](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/text-interaction) - Enable and disable text interaction in the WebView on iOS.
+- [Text Zoom](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/text-zoom) - Read and control the WebView text zoom.
+- [Thermal State](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/thermal-state) - Read the device thermal state.
+- [TikTok App Events](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/tiktok-app-events) - Unofficial TikTok App Events SDK integration.
+- [Toast](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/toast) - Show native toast notifications.
+- [Torch](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/torch) - Switch the flashlight on and off.
+- [Volume](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/volume) - Control the volume and observe hardware volume button presses.
+- [Wallet](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/wallet) - Add passes to Apple Wallet and Google Wallet.
+- [YouTube Player](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/youtube-player) - Embed and control YouTube players.
+
+### Insiders plugins
+Plugins available to [Capawesome Insiders](https://capawesome.io/insiders/) sponsors.
+
+- [Accelerometer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/accelerometer) - Capture the acceleration force along the x, y and z axes.
+- [AdMob](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/admob) - Monetize with Google AdMob banner, interstitial, rewarded and app open ads.
+- [Audio Player](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/audio-player) - Play audio with background support.
+- [Audio Recorder](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/audio-recorder) - Record audio using the device microphone.
+- [Background Geolocation](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/background-geolocation) - Track the device location in the background.
+- [Barcode Scanner](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/barcode-scanner) - Scan barcodes and QR codes with a fullscreen or embedded scanner.
+- [Barometer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/barometer) - Read the static air pressure.
+- [Biometrics](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/biometrics) - Request biometric authentication such as face or fingerprint recognition.
+- [Bluetooth Low Energy](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/bluetooth-low-energy) - Communicate with BLE devices in the central and peripheral role.
+- [Calendar](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/calendar) - Manage calendars and events.
+- [Contacts](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/contacts) - Read, write and select device contacts.
+- [Document Scanner](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/document-scanner) - Scan documents with the native scanner.
+- [File Compressor](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/file-compressor) - Compress images in formats like PNG, JPEG and WebP.
+- [File Manager](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/file-manager) - Manage files and directories.
+- [File Transfer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/file-transfer) - Background file uploads and downloads with pause and resume.
+- [Geocoder](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/geocoder) - Geocoding and reverse geocoding.
+- [Geofences](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/geofences) - Monitor OS-managed geofences.
+- [Health](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/health) - Read and write health data via Apple HealthKit and Android Health Connect.
+- [LLM](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/llm) - Run on-device large language models with Apple Intelligence and Gemini Nano.
+- [Media Session](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/media-session) - Interact with media controllers, volume keys and media buttons.
+- [NFC](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/nfc) - Read, write and emulate NFC tags.
+- [OAuth](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/oauth) - Communicate with OAuth 2.0 and OpenID Connect providers.
+- [Pedometer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/pedometer) - Retrieve step counts and distance traveled.
+- [Printer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/printer) - Print base64 data, files, HTML, PDFs and web views.
+- [Purchases](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/purchases) - In-app purchases and subscriptions.
+- [Secure Preferences](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/secure-preferences) - Securely store key/value pairs such as tokens and API keys.
+- [Share Target](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/share-target) - Receive text, links and files shared from other apps.
+- [Speech Recognition](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/speech-recognition) - Transcribe speech into text.
+- [Speech Synthesis](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/speech-synthesis) - Synthesize speech from text.
+- [SQLite](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/sqlite) - Access local databases with encryption, transactions and schema migrations.
+- [Vault](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/vault) - Store key/value pairs in lockable, biometric-protected vaults.
+- [Watch](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/watch) - Communicate with Apple Watch and Wear OS apps.
+- [Wifi](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/wifi) - Manage Wi-Fi connectivity.
+- [Zeroconf](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/zeroconf) - Discover and advertise local network services via mDNS/DNS-SD.
+- [Zip](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/zip) - Compress and extract archives with encryption support.
+
+### Firebase
+- [Analytics](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/analytics) - Log events and user properties with Firebase Analytics.
+- [App](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/app) - Access Firebase app information.
+- [App Check](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/app-check) - Protect backend resources from abuse with Firebase App Check.
+- [Authentication](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/authentication) - Firebase Authentication with support for many sign-in providers.
+- [Cloud Firestore](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/firestore) - Read and write Cloud Firestore data with the native SDKs.
+- [Cloud Functions](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/functions) - Call Firebase Cloud Functions.
+- [Cloud Messaging](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/messaging) - Push notifications via Firebase Cloud Messaging (FCM).
+- [Cloud Storage](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/storage) - Upload and download files with Firebase Cloud Storage.
+- [Crashlytics](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/crashlytics) - Crash reporting with Firebase Crashlytics.
+- [Performance Monitoring](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/performance) - Measure app performance with Firebase Performance Monitoring.
+- [Remote Config](https://github.com/capawesome-team/capacitor-firebase/tree/main/packages/remote-config) - Change app behavior remotely with Firebase Remote Config.
+
+### ML Kit
+- [Barcode Scanning](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/barcode-scanning) - Scan barcodes and QR codes with ML Kit.
+- [Digital Ink Recognition](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/digital-ink-recognition) - Recognize handwritten text and sketches.
+- [Document Scanner](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/document-scanner) - Digitize physical documents on Android.
+- [Entity Extraction](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/entity-extraction) - Detect entities like addresses, dates and phone numbers in text.
+- [Face Detection](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/face-detection) - Detect faces and facial features in images.
+- [Face Mesh Detection](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/face-mesh-detection) - Detect face meshes on Android.
+- [GenAI Image Description](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/genai-image-description) - Generate image descriptions on-device on Android.
+- [GenAI Prompt](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/genai-prompt) - Prompt Gemini Nano on-device on Android.
+- [GenAI Proofreading](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/genai-proofreading) - Proofread text on-device on Android.
+- [GenAI Rewriting](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/genai-rewriting) - Rewrite text on-device on Android.
+- [GenAI Speech Recognition](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/genai-speech-recognition) - Transcribe speech on-device on Android.
+- [GenAI Summarization](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/genai-summarization) - Summarize text on-device on Android.
+- [Image Labeling](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/image-labeling) - Label objects, places and activities in images.
+- [Language Identification](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/language-identification) - Identify the language of a text.
+- [Object Detection](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/object-detection) - Detect and track objects in images.
+- [Pose Detection](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/pose-detection) - Detect body poses in images.
+- [Selfie Segmentation](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/selfie-segmentation) - Separate people from the background.
+- [Smart Reply](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/smart-reply) - Suggest replies for conversations.
+- [Subject Segmentation](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/subject-segmentation) - Separate subjects from the background on Android.
+- [Text Recognition](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/text-recognition) - Recognize text in images.
+- [Translation](https://github.com/capawesome-team/capacitor-mlkit/tree/main/packages/translation) - Translate text on-device.
+
+
 ## Other plugins
 
 Independents plugins are listed here.
@@ -561,6 +740,7 @@ Production apps whose use of Capacitor is publicly documented.
 
 - [Alexintosh/Awesome-Ionic](https://github.com/Alexintosh/Awesome-Ionic) - Curated list of Ionic resources.
 - [Cap-go/awesome-ionic](https://github.com/Cap-go/awesome-ionic) - Curated list of Ionic Framework resources.
+- [capawesome-team/awesome-capacitorjs](https://github.com/capawesome-team/awesome-capacitorjs) - Curated list of Capacitor plugins, tools and resources.
 
 ## Community
 
@@ -577,6 +757,7 @@ Places to discuss about Capacitor
 - [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart the best boilerplate for Capacitor and Capgo part-time developper.
 - [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
 - [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
+- [Dayana](https://github.com/djabif) - Ionic Developer Expert, creator of multiple mobile apps and Capawesome team member.
 
 ## Contributing
 
