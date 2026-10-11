@@ -378,6 +378,7 @@ Independents plugins are listed here.
     - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
 - [Navigation bar](https://github.com/hugotomazi/navigation-bar) - Manipulation and control of the navigation bar visibility.
 - [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+- [Play Games](https://github.com/byVik/capacitor-plugins/tree/main/packages/play-games) - Google Play Games Services v2: sign-in, leaderboards, achievements and saved games.
 - [Playlist](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 - [PQ Secure Storage](https://github.com/jimcase/capacitor-pq-secure-storage) - Post-quantum signing (ML-DSA) and key encapsulation (ML-KEM) with keys held in the iOS Secure Enclave and the Android Keystore, plus biometric-gated secure storage.
 - [Print](https://github.com/leoruhland/capacitor-print) - Send WebView content to connected printers.
