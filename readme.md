@@ -457,6 +457,7 @@ This list will be upgraded soon
 - [Vite plugin](https://github.com/Cap-go/vite-capacitor) - Keep native platform configs in sync with the Vite dev server URL.
 - [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
 - [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
+- [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Free, open-source Mac app to mirror and control Android emulators, Android phones and iOS simulators side by side, with device controls, deep links, logs and captures.
 
 ## Helpers
 
