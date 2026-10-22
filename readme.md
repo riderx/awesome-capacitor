@@ -363,6 +363,7 @@ Independents plugins are listed here.
     - [Dynamic Links](https://github.com/Pantrist-dev/capacitor-firebase-dynamic-links) - Firebase Dynamic Links.
     - [Push](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
+- [Fully Drawn](https://github.com/byVik/capacitor-plugins/tree/main/packages/fully-drawn) - Reports time to full display to Android vitals with reportFullyDrawn.
 - [Foldable](https://github.com/erkamyaman/capacitor-foldable) - iPhone Duo and Android foldables: fold state, posture, hinge angle and size classes, with a Device Posture and Viewport Segments polyfill.
 - Google
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
