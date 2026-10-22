@@ -340,6 +340,7 @@ Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 
 Independents plugins are listed here.
 
+- [Apple Maps](https://github.com/katamaengineering/capacitor-plugin-apple-maps) - Native MapKit maps with markers, overlays, clustering, and camera controls. iOS only.
 - [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 
@@ -363,6 +364,7 @@ Independents plugins are listed here.
     - [Push](https://github.com/EinfachHans/capacitor-firebase-push) - This Plugin it used for Firebase Push Messages. It support Data.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
 - [Fully Drawn](https://github.com/byVik/capacitor-plugins/tree/main/packages/fully-drawn) - Reports time to full display to Android vitals with reportFullyDrawn.
+- [Foldable](https://github.com/erkamyaman/capacitor-foldable) - iPhone Duo and Android foldables: fold state, posture, hinge angle and size classes, with a Device Posture and Viewport Segments polyfill.
 - Google
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     - [Availability](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
@@ -379,6 +381,7 @@ Independents plugins are listed here.
     - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
 - [Navigation bar](https://github.com/hugotomazi/navigation-bar) - Manipulation and control of the navigation bar visibility.
 - [Oauth2](https://github.com/moberwasserlechner/capacitor-oauth2) - Generic OAuth 2 client plugin. It let you configure the OAuth parameters yourself instead of using SDKs.
+- [Play Games](https://github.com/byVik/capacitor-plugins/tree/main/packages/play-games) - Google Play Games Services v2: sign-in, leaderboards, achievements and saved games.
 - [Playlist](https://github.com/phiamo/capacitor-plugin-playlist) - Native support for audio playlists, background support, and lock screen controls.
 - [PQ Secure Storage](https://github.com/jimcase/capacitor-pq-secure-storage) - Post-quantum signing (ML-DSA) and key encapsulation (ML-KEM) with keys held in the iOS Secure Enclave and the Android Keystore, plus biometric-gated secure storage.
 - [Print](https://github.com/leoruhland/capacitor-print) - Send WebView content to connected printers.
@@ -394,6 +397,7 @@ Independents plugins are listed here.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - Mobile SDK for card payment processing.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
+- [UMP Consent](https://github.com/byVik/capacitor-plugins/tree/main/packages/ump-consent) - Google UMP consent form with Consent Mode v2 mapping, no AdMob plugin required.
 - [Video player](https://github.com/jepiqueau/capacitor-video-player) - Play a video full-screen on iOS, Android, Web and Electron platforms.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Authentication plugin for Vietnamese social network.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
@@ -443,7 +447,7 @@ This list will be upgraded soon
 - [Tailwind Capacitor](https://github.com/Cap-go/tailwind-capacitor) - Collection of helper plugin for Tailwind, it add safe area class and others utlitilies.
 - [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 - [lazycap](https://github.com/icarus-itcs/lazycap) - Terminal dashboard for Capacitor development with device management, builds, live reload, debugging, and AI assistant integration via MCP.
-- [Capgo Skills](https://capgo.app/skills/) - Check your Capacitor app compatibility and skills.
+- [Capgo Skills](https://github.com/Cap-go/capgo-skills) - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Works with Claude Code, Cursor, Codex, and Gemini CLI.
 - [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for your app.
 - [Capstart](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating mobile apps with React, Supabase, and shadcn/ui, or adding native projects to existing web frameworks.
@@ -458,6 +462,7 @@ This list will be upgraded soon
 - [Vite plugin](https://github.com/Cap-go/vite-capacitor) - Keep native platform configs in sync with the Vite dev server URL.
 - [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
 - [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
+- [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Free, open-source Mac app to mirror and control Android emulators, Android phones and iOS simulators side by side, with device controls, deep links, logs and captures.
 
 ## Helpers
 
@@ -578,6 +583,7 @@ Places to discuss about Capacitor
 - [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart the best boilerplate for Capacitor and Capgo part-time developper.
 - [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile app and Capgo part-time developper.
 - [Capgo consulting](https://capgo.app/consulting/) - Creator of this list and of Capgo live update system + 150 plugins.
+- [Erkam](https://github.com/erkamyaman) - Creator of the Foldable plugin for iPhone Duo and Android foldables.
 
 ## Contributing
 
