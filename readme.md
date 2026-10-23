@@ -337,7 +337,7 @@ Plugins written and maintained by [@aparajita](https://github.com/aparajita).
 - [Secure Storage](https://github.com/aparajita/capacitor-secure-storage) - Secure, flexible storage for Capacitor apps using iOS Keychain and Android Keystore. Supports Keychain sync across devices on iOS.
 - [Silent Notifications](https://github.com/aparajita/capacitor-ios-silent-notifications) - Silent (remote) notification support on iOS.
 
-## [Capawesome plugins](https://capawesome.io/)
+## Capawesome plugins
 Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) and maintained by [@capawesome-team](https://github.com/capawesome-team) and community members.
 
 ### Plugins
