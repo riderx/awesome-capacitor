@@ -439,7 +439,7 @@ Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) a
 - [Wallet](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/wallet) - Add passes to Apple Wallet and Google Wallet.
 - [YouTube Player](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/youtube-player) - Embed and control YouTube players.
 
-### Insiders plugins
+### Premium plugins
 Plugins available to [Capawesome Insiders](https://capawesome.io/insiders/) sponsors.
 
 - [Accelerometer](https://github.com/capawesome-team/capacitor-plugins/tree/main/packages/accelerometer) - Capture the acceleration force along the x, y and z axes.
