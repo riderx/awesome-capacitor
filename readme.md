@@ -463,6 +463,7 @@ This list will be upgraded soon
 - [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
 - [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
 - [Device Hub Pro](https://github.com/gitemre/device-hub-pro) - Free, open-source Mac app to mirror and control Android emulators, Android phones and iOS simulators side by side, with device controls, deep links, logs and captures.
+- [APPLORE App Icon Generator](https://applore.app/app-icon-generator) - Web tool that turns one 1024 px image into an Xcode AppIcon set, Android launcher/adaptive icons and web/PWA icons in one ZIP. Free quick export runs in the browser, no account.
 
 ## Helpers
 
