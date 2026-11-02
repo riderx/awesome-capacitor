@@ -373,6 +373,7 @@ Independents plugins are listed here.
     - [MlKit Vision](https://github.com/trancee/capacitor-google-mlkit-vision/) - Detect faces in an image, identify key facial features, and get the contours of detected faces.
 - [Healthkit](https://github.com/Ad-Scientiam/capacitor-healthkit) - Retrieve data from HealthKit.
 - [Jitsi](https://github.com/calvinckho/capacitor-jitsi-meet) - Make video calls through the free, open-sourced Jitsi video platform.
+- [License plate recognition](https://github.com/parkr-app/capacitor-alpr) - Read license plates from 65 countries on the device, from the live camera or a photo. Free basic scanner, paid Pro features.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Native Audio Player](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
