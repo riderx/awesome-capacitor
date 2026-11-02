@@ -559,6 +559,7 @@ Production apps whose use of Capacitor is publicly documented.
 - [Found](https://found.com/engineering/migrating-from-cordova-to-capacitor) - Banking app for small businesses, with an engineering write-up of its Cordova migration.
 - [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals.
 - [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H&R Block.
+- [Open Chess](https://github.com/jupiutrera/open-chess) - Open-source chess trainer whose web app ships as an Android APK from the same code, with Stockfish running in the WebView.
 - [Spreekuur.nl](https://ionic.io/resources/case-studies/topicus) - Dutch healthcare consultation app by Topicus.
 - [YesHelp](https://ionic.io/resources/case-studies/yeshelp) - Social assistance app for iOS and Android.
 - [Ionic case studies](https://ionic.io/resources/case-studies) - More case studies published by the Ionic team.
