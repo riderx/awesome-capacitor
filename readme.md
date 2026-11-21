@@ -365,6 +365,7 @@ Independents plugins are listed here.
 - [File selector](https://github.com/hinddeep/capacitor-file-selector) - Select files form Android/iOS devices and the web.
 - [Fully Drawn](https://github.com/byVik/capacitor-plugins/tree/main/packages/fully-drawn) - Reports time to full display to Android vitals with reportFullyDrawn.
 - [Foldable](https://github.com/erkamyaman/capacitor-foldable) - iPhone Duo and Android foldables: fold state, posture, hinge angle and size classes, with a Device Posture and Viewport Segments polyfill.
+- [Gleap](https://github.com/GleapSDK/Capacitor-SDK) - In-app bug reporting, customer feedback, live chat and AI customer support.
 - Google
     - [Auth](https://github.com/CodetrixStudio/CapacitorGoogleAuth) - Google auth plugin for Capacitor.
     - [Availability](https://github.com/cartona/capacitor-google-play-availability) - Verifies that Google Play services is installed and enabled, and request enabling Google Play services on device.
