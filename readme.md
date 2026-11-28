@@ -395,6 +395,7 @@ Independents plugins are listed here.
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Terminal plugin for in-person payment processing.
 - [Sprig](https://github.com/crabbydavis/sprig) - All-in-one  product research platform.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
+- [Strata Storage](https://github.com/aoneahsan/strata-storage) - One storage API across web, iOS and Android (localStorage, IndexedDB, preferences, SQLite, secure storage) with TTL, encryption and zero runtime dependencies.
 - [Sumup](https://github.com/rbedemann/capacitor-sumup-plugin) - Mobile SDK for card payment processing.
 - [UDP](https://github.com/brugsel/capacitor-udp) - Support both IPv6 and IPv4, multicast and broadcast.
 - [UMP Consent](https://github.com/byVik/capacitor-plugins/tree/main/packages/ump-consent) - Google UMP consent form with Consent Mode v2 mapping, no AdMob plugin required.
