@@ -344,6 +344,7 @@ Independents plugins are listed here.
 - [Apple Pay](https://github.com/fresha/capacitor-plugin-applepay) - Get Apple Pay payments in your app.
 - [App Tracking Transparency](https://github.com/mahnuh/capacitor-plugin-app-tracking-transparency) - Request user authorization to access app-related data for tracking the user or the device. iOS only.
 
+- [Auth Manager](https://github.com/aoneahsan/capacitor-auth-manager) - Native and web Google sign-in for React, Vue, Angular and vanilla JavaScript, with no Firebase dependency.
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
 - [capacitor-plugin-camera](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
