@@ -376,6 +376,7 @@ Independents plugins are listed here.
 - [Lightsensor](https://github.com/Elvincth/capacitor-plugin-lightsensor) - Get the illuminance level on the device.
 - [Native Audio Player](https://github.com/smartcompanion-app/native-audio-player) - Play audio that keeps playing in the background, player is shown in system controls, audio output can be switched between speaker/earpiece.
 - [Native settings](https://github.com/RaphaelWoude/capacitor-native-settings) - Open native settings screens.
+- [Native Update](https://www.npmjs.com/package/native-update) - Signed over-the-air live updates, app store update prompts and in-app reviews; free plan covers 30 apps and 5,000 monthly active users with every feature.
 - NativeScript
     - [NativeScript Capacitor](https://github.com/NativeScript/capacitor) - Empower Capacitor with native APIs.
     - [Augmented Reality](https://github.com/EddyVerbruggen/nativescript-ar) - Add AR experiences.
